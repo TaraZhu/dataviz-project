@@ -1,0 +1,38 @@
+body {
+    margin: 1em;
+}
+
+svg {
+    font: 1em Consolas;
+    shape-rendering: crispEdges;
+}
+
+h2 {
+    text-align: center;
+    font-size: 1.5em;
+    font-weight: 600;
+}
+
+.introduction {
+    word-wrap: break-word;
+}
+
+/* CSS that makes chart responsive */
+
+#svg-container {
+    position: relative;
+    width: 100%;
+    overflow: hidden;
+}
+
+.svg-content-responsive {
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+
+/* CSS that for placeholder */
+
+.graph-svg-placeholder {
+    background-color: silver;
+}
