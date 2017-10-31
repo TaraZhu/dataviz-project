@@ -1,0 +1,4286 @@
+[
+  {
+    "Year": 2007,
+    "Leading Cause": "All Other Causes",
+    "Sex": "F",
+    "Race Ethnicity": "White Non-Hispanic",
+    "Deaths": 1680,
+    "Death Rate": 117.1,
+    "Age Adjusted Death Rate": 81.5
+  },
+  {
+    "Year": 2007,
+    "Leading Cause": "All Other Causes",
+    "Sex": "M",
+    "Race Ethnicity": "Hispanic",
+    "Deaths": 988,
+    "Death Rate": 90.6,
+    "Age Adjusted Death Rate": 142.6
+  },
+  {
+    "Year": 2007,
+    "Leading Cause": "All Other Causes",
+    "Sex": "M",
+    "Race Ethnicity": "White Non-Hispanic",
+    "Deaths": 1749,
+    "Death Rate": 130.7,
+    "Age Adjusted Death Rate": 115.9
+  },
+  {
+    "Year": 2007,
+    "Leading Cause": "All Other Causes",
+    "Sex": "M",
+    "Race Ethnicity": "Black Non-Hispanic",
+    "Deaths": 1163,
+    "Death Rate": 136.5,
+    "Age Adjusted Death Rate": 162.4
+  },
+  {
+    "Year": 2007,
+    "Leading Cause": "All Other Causes",
+    "Sex": "M",
+    "Race Ethnicity": "Asian and Pacific Islander",
+    "Deaths": 221,
+    "Death Rate": 45.7,
+    "Age Adjusted Death Rate": 61.2
+  },
+  {
+    "Year": 2007,
+    "Leading Cause": "All Other Causes",
+    "Sex": "F",
+    "Race Ethnicity": "Asian and Pacific Islander",
+    "Deaths": 182,
+    "Death Rate": 35.3,
+    "Age Adjusted Death Rate": 44.6
+  },
+  {
+    "Year": 2007,
+    "Leading Cause": "All Other Causes",
+    "Sex": "F",
+    "Race Ethnicity": "Black Non-Hispanic",
+    "Deaths": 1230,
+    "Death Rate": 116.8,
+    "Age Adjusted Death Rate": 113.4
+  },
+  {
+    "Year": 2007,
+    "Leading Cause": "All Other Causes",
+    "Sex": "M",
+    "Race Ethnicity": "Not Stated/Unknown",
+    "Deaths": 43,
+    "Death Rate": "N/A",
+    "Age Adjusted Death Rate": "N/A"
+  },
+  {
+    "Year": 2007,
+    "Leading Cause": "All Other Causes",
+    "Sex": "F",
+    "Race Ethnicity": "Not Stated/Unknown",
+    "Deaths": 27,
+    "Death Rate": "N/A",
+    "Age Adjusted Death Rate": "N/A"
+  },
+  {
+    "Year": 2007,
+    "Leading Cause": "All Other Causes",
+    "Sex": "F",
+    "Race Ethnicity": "Hispanic",
+    "Deaths": 820,
+    "Death Rate": 70.2,
+    "Age Adjusted Death Rate": 85.6
+  },
+  {
+    "Year": 2007,
+    "Leading Cause": "All Other Causes",
+    "Sex": "F",
+    "Race Ethnicity": "Other Race/ Ethnicity",
+    "Deaths": 15,
+    "Death Rate": "N/A",
+    "Age Adjusted Death Rate": "N/A"
+  },
+  {
+    "Year": 2007,
+    "Leading Cause": "All Other Causes",
+    "Sex": "M",
+    "Race Ethnicity": "Other Race/ Ethnicity",
+    "Deaths": 24,
+    "Death Rate": "N/A",
+    "Age Adjusted Death Rate": "N/A"
+  },
+  {
+    "Year": 2008,
+    "Leading Cause": "All Other Causes",
+    "Sex": "M",
+    "Race Ethnicity": "Other Race/ Ethnicity",
+    "Deaths": 8,
+    "Death Rate": "N/A",
+    "Age Adjusted Death Rate": "N/A"
+  },
+  {
+    "Year": 2008,
+    "Leading Cause": "All Other Causes",
+    "Sex": "M",
+    "Race Ethnicity": "Not Stated/Unknown",
+    "Deaths": 67,
+    "Death Rate": "N/A",
+    "Age Adjusted Death Rate": "N/A"
+  },
+  {
+    "Year": 2008,
+    "Leading Cause": "All Other Causes",
+    "Sex": "F",
+    "Race Ethnicity": "White Non-Hispanic",
+    "Deaths": 1706,
+    "Death Rate": 118.9,
+    "Age Adjusted Death Rate": 78.6
+  },
+  {
+    "Year": 2008,
+    "Leading Cause": "All Other Causes",
+    "Sex": "F",
+    "Race Ethnicity": "Black Non-Hispanic",
+    "Deaths": 1268,
+    "Death Rate": 121,
+    "Age Adjusted Death Rate": 116.1
+  },
+  {
+    "Year": 2008,
+    "Leading Cause": "All Other Causes",
+    "Sex": "F",
+    "Race Ethnicity": "Other Race/ Ethnicity",
+    "Deaths": 19,
+    "Death Rate": "N/A",
+    "Age Adjusted Death Rate": "N/A"
+  },
+  {
+    "Year": 2008,
+    "Leading Cause": "All Other Causes",
+    "Sex": "M",
+    "Race Ethnicity": "White Non-Hispanic",
+    "Deaths": 1824,
+    "Death Rate": 135.9,
+    "Age Adjusted Death Rate": 119.9
+  },
+  {
+    "Year": 2008,
+    "Leading Cause": "All Other Causes",
+    "Sex": "F",
+    "Race Ethnicity": "Not Stated/Unknown",
+    "Deaths": 42,
+    "Death Rate": "N/A",
+    "Age Adjusted Death Rate": "N/A"
+  },
+  {
+    "Year": 2008,
+    "Leading Cause": "All Other Causes",
+    "Sex": "F",
+    "Race Ethnicity": "Asian and Pacific Islander",
+    "Deaths": 214,
+    "Death Rate": 40.2,
+    "Age Adjusted Death Rate": 50.3
+  },
+  {
+    "Year": 2008,
+    "Leading Cause": "All Other Causes",
+    "Sex": "M",
+    "Race Ethnicity": "Hispanic",
+    "Deaths": 1069,
+    "Death Rate": 96.7,
+    "Age Adjusted Death Rate": 139.5
+  },
+  {
+    "Year": 2008,
+    "Leading Cause": "All Other Causes",
+    "Sex": "F",
+    "Race Ethnicity": "Hispanic",
+    "Deaths": 885,
+    "Death Rate": 74.9,
+    "Age Adjusted Death Rate": 90.2
+  },
+  {
+    "Year": 2008,
+    "Leading Cause": "All Other Causes",
+    "Sex": "M",
+    "Race Ethnicity": "Black Non-Hispanic",
+    "Deaths": 1216,
+    "Death Rate": 143.2,
+    "Age Adjusted Death Rate": 163.5
+  },
+  {
+    "Year": 2008,
+    "Leading Cause": "All Other Causes",
+    "Sex": "M",
+    "Race Ethnicity": "Asian and Pacific Islander",
+    "Deaths": 238,
+    "Death Rate": 47.8,
+    "Age Adjusted Death Rate": 63.3
+  },
+  {
+    "Year": 2009,
+    "Leading Cause": "All Other Causes",
+    "Sex": "F",
+    "Race Ethnicity": "Asian and Pacific Islander",
+    "Deaths": 220,
+    "Death Rate": 40.1,
+    "Age Adjusted Death Rate": 48.9
+  },
+  {
+    "Year": 2009,
+    "Leading Cause": "All Other Causes",
+    "Sex": "F",
+    "Race Ethnicity": "Other Race/ Ethnicity",
+    "Deaths": 11,
+    "Death Rate": "N/A",
+    "Age Adjusted Death Rate": "N/A"
+  },
+  {
+    "Year": 2009,
+    "Leading Cause": "All Other Causes",
+    "Sex": "M",
+    "Race Ethnicity": "White Non-Hispanic",
+    "Deaths": 1818,
+    "Death Rate": 135.1,
+    "Age Adjusted Death Rate": 118.5
+  },
+  {
+    "Year": 2009,
+    "Leading Cause": "All Other Causes",
+    "Sex": "M",
+    "Race Ethnicity": "Not Stated/Unknown",
+    "Deaths": 55,
+    "Death Rate": "N/A",
+    "Age Adjusted Death Rate": "N/A"
+  },
+  {
+    "Year": 2009,
+    "Leading Cause": "All Other Causes",
+    "Sex": "F",
+    "Race Ethnicity": "Black Non-Hispanic",
+    "Deaths": 1305,
+    "Death Rate": 124.6,
+    "Age Adjusted Death Rate": 117.3
+  },
+  {
+    "Year": 2009,
+    "Leading Cause": "All Other Causes",
+    "Sex": "M",
+    "Race Ethnicity": "Asian and Pacific Islander",
+    "Deaths": 220,
+    "Death Rate": 43.1,
+    "Age Adjusted Death Rate": 56.1
+  },
+  {
+    "Year": 2009,
+    "Leading Cause": "All Other Causes",
+    "Sex": "M",
+    "Race Ethnicity": "Other Race/ Ethnicity",
+    "Deaths": 18,
+    "Death Rate": "N/A",
+    "Age Adjusted Death Rate": "N/A"
+  },
+  {
+    "Year": 2009,
+    "Leading Cause": "All Other Causes",
+    "Sex": "M",
+    "Race Ethnicity": "Hispanic",
+    "Deaths": 1067,
+    "Death Rate": 95,
+    "Age Adjusted Death Rate": 138.1
+  },
+  {
+    "Year": 2009,
+    "Leading Cause": "All Other Causes",
+    "Sex": "F",
+    "Race Ethnicity": "Not Stated/Unknown",
+    "Deaths": 26,
+    "Death Rate": "N/A",
+    "Age Adjusted Death Rate": "N/A"
+  },
+  {
+    "Year": 2009,
+    "Leading Cause": "All Other Causes",
+    "Sex": "F",
+    "Race Ethnicity": "White Non-Hispanic",
+    "Deaths": 1684,
+    "Death Rate": 117.2,
+    "Age Adjusted Death Rate": 77.2
+  },
+  {
+    "Year": 2009,
+    "Leading Cause": "All Other Causes",
+    "Sex": "M",
+    "Race Ethnicity": "Black Non-Hispanic",
+    "Deaths": 1246,
+    "Death Rate": 146.7,
+    "Age Adjusted Death Rate": 167.7
+  },
+  {
+    "Year": 2009,
+    "Leading Cause": "All Other Causes",
+    "Sex": "F",
+    "Race Ethnicity": "Hispanic",
+    "Deaths": 775,
+    "Death Rate": 64.7,
+    "Age Adjusted Death Rate": 75.3
+  },
+  {
+    "Year": 2010,
+    "Leading Cause": "All Other Causes",
+    "Sex": "M",
+    "Race Ethnicity": "Not Stated/Unknown",
+    "Deaths": 32,
+    "Death Rate": "N/A",
+    "Age Adjusted Death Rate": "N/A"
+  },
+  {
+    "Year": 2010,
+    "Leading Cause": "All Other Causes",
+    "Sex": "M",
+    "Race Ethnicity": "Asian and Pacific Islander",
+    "Deaths": 308,
+    "Death Rate": 59.2,
+    "Age Adjusted Death Rate": 77.2
+  },
+  {
+    "Year": 2010,
+    "Leading Cause": "All Other Causes",
+    "Sex": "F",
+    "Race Ethnicity": "Other Race/ Ethnicity",
+    "Deaths": 27,
+    "Death Rate": "N/A",
+    "Age Adjusted Death Rate": "N/A"
+  },
+  {
+    "Year": 2010,
+    "Leading Cause": "All Other Causes",
+    "Sex": "F",
+    "Race Ethnicity": "Asian and Pacific Islander",
+    "Deaths": 238,
+    "Death Rate": 42.3,
+    "Age Adjusted Death Rate": 51.6
+  },
+  {
+    "Year": 2010,
+    "Leading Cause": "All Other Causes",
+    "Sex": "M",
+    "Race Ethnicity": "White Non-Hispanic",
+    "Deaths": 2034,
+    "Death Rate": 151.6,
+    "Age Adjusted Death Rate": 130.9
+  },
+  {
+    "Year": 2010,
+    "Leading Cause": "All Other Causes",
+    "Sex": "F",
+    "Race Ethnicity": "Not Stated/Unknown",
+    "Deaths": 18,
+    "Death Rate": "N/A",
+    "Age Adjusted Death Rate": "N/A"
+  },
+  {
+    "Year": 2010,
+    "Leading Cause": "All Other Causes",
+    "Sex": "F",
+    "Race Ethnicity": "White Non-Hispanic",
+    "Deaths": 2140,
+    "Death Rate": 149.7,
+    "Age Adjusted Death Rate": 93.9
+  },
+  {
+    "Year": 2010,
+    "Leading Cause": "All Other Causes",
+    "Sex": "M",
+    "Race Ethnicity": "Other Race/ Ethnicity",
+    "Deaths": 25,
+    "Death Rate": "N/A",
+    "Age Adjusted Death Rate": "N/A"
+  },
+  {
+    "Year": 2010,
+    "Leading Cause": "All Other Causes",
+    "Sex": "F",
+    "Race Ethnicity": "Hispanic",
+    "Deaths": 1007,
+    "Death Rate": 82.7,
+    "Age Adjusted Death Rate": 94.6
+  },
+  {
+    "Year": 2010,
+    "Leading Cause": "All Other Causes",
+    "Sex": "F",
+    "Race Ethnicity": "Black Non-Hispanic",
+    "Deaths": 1326,
+    "Death Rate": 126.5,
+    "Age Adjusted Death Rate": 117.4
+  },
+  {
+    "Year": 2010,
+    "Leading Cause": "All Other Causes",
+    "Sex": "M",
+    "Race Ethnicity": "Hispanic",
+    "Deaths": 1167,
+    "Death Rate": 102.1,
+    "Age Adjusted Death Rate": 150
+  },
+  {
+    "Year": 2010,
+    "Leading Cause": "All Other Causes",
+    "Sex": "M",
+    "Race Ethnicity": "Black Non-Hispanic",
+    "Deaths": 1230,
+    "Death Rate": 144.5,
+    "Age Adjusted Death Rate": 166.2
+  },
+  {
+    "Year": 2011,
+    "Leading Cause": "All Other Causes",
+    "Sex": "F",
+    "Race Ethnicity": "Not Stated/Unknown",
+    "Deaths": 14,
+    "Death Rate": "N/A",
+    "Age Adjusted Death Rate": "N/A"
+  },
+  {
+    "Year": 2011,
+    "Leading Cause": "All Other Causes",
+    "Sex": "F",
+    "Race Ethnicity": "Hispanic",
+    "Deaths": 1025,
+    "Death Rate": 83.7,
+    "Age Adjusted Death Rate": 94.8
+  },
+  {
+    "Year": 2011,
+    "Leading Cause": "All Other Causes",
+    "Sex": "M",
+    "Race Ethnicity": "White Non-Hispanic",
+    "Deaths": 2165,
+    "Death Rate": 162.3,
+    "Age Adjusted Death Rate": 139.5
+  },
+  {
+    "Year": 2011,
+    "Leading Cause": "All Other Causes",
+    "Sex": "M",
+    "Race Ethnicity": "Not Stated/Unknown",
+    "Deaths": 38,
+    "Death Rate": "N/A",
+    "Age Adjusted Death Rate": "N/A"
+  },
+  {
+    "Year": 2011,
+    "Leading Cause": "All Other Causes",
+    "Sex": "F",
+    "Race Ethnicity": "Other Race/ Ethnicity",
+    "Deaths": 38,
+    "Death Rate": "N/A",
+    "Age Adjusted Death Rate": "N/A"
+  },
+  {
+    "Year": 2011,
+    "Leading Cause": "All Other Causes",
+    "Sex": "M",
+    "Race Ethnicity": "Other Race/ Ethnicity",
+    "Deaths": 27,
+    "Death Rate": "N/A",
+    "Age Adjusted Death Rate": "N/A"
+  },
+  {
+    "Year": 2011,
+    "Leading Cause": "All Other Causes",
+    "Sex": "F",
+    "Race Ethnicity": "White Non-Hispanic",
+    "Deaths": 2445,
+    "Death Rate": 172.6,
+    "Age Adjusted Death Rate": 105.4
+  },
+  {
+    "Year": 2011,
+    "Leading Cause": "All Other Causes",
+    "Sex": "F",
+    "Race Ethnicity": "Asian and Pacific Islander",
+    "Deaths": 278,
+    "Death Rate": 48.7,
+    "Age Adjusted Death Rate": 57.4
+  },
+  {
+    "Year": 2011,
+    "Leading Cause": "All Other Causes",
+    "Sex": "M",
+    "Race Ethnicity": "Black Non-Hispanic",
+    "Deaths": 1337,
+    "Death Rate": 156.7,
+    "Age Adjusted Death Rate": 181.7
+  },
+  {
+    "Year": 2011,
+    "Leading Cause": "All Other Causes",
+    "Sex": "M",
+    "Race Ethnicity": "Hispanic",
+    "Deaths": 1207,
+    "Death Rate": 104.7,
+    "Age Adjusted Death Rate": 151.1
+  },
+  {
+    "Year": 2011,
+    "Leading Cause": "All Other Causes",
+    "Sex": "M",
+    "Race Ethnicity": "Asian and Pacific Islander",
+    "Deaths": 340,
+    "Death Rate": 64.3,
+    "Age Adjusted Death Rate": 85.1
+  },
+  {
+    "Year": 2011,
+    "Leading Cause": "All Other Causes",
+    "Sex": "F",
+    "Race Ethnicity": "Black Non-Hispanic",
+    "Deaths": 1473,
+    "Death Rate": 140.7,
+    "Age Adjusted Death Rate": 128.8
+  },
+  {
+    "Year": 2012,
+    "Leading Cause": "All Other Causes",
+    "Sex": "M",
+    "Race Ethnicity": "Black Non-Hispanic",
+    "Deaths": 1320,
+    "Death Rate": 154.3,
+    "Age Adjusted Death Rate": 175
+  },
+  {
+    "Year": 2012,
+    "Leading Cause": "All Other Causes",
+    "Sex": "M",
+    "Race Ethnicity": "Other Race/ Ethnicity",
+    "Deaths": 24,
+    "Death Rate": "N/A",
+    "Age Adjusted Death Rate": "N/A"
+  },
+  {
+    "Year": 2012,
+    "Leading Cause": "All Other Causes",
+    "Sex": "M",
+    "Race Ethnicity": "Not Stated/Unknown",
+    "Deaths": 78,
+    "Death Rate": "N/A",
+    "Age Adjusted Death Rate": "N/A"
+  },
+  {
+    "Year": 2012,
+    "Leading Cause": "All Other Causes",
+    "Sex": "M",
+    "Race Ethnicity": "Asian and Pacific Islander",
+    "Deaths": 333,
+    "Death Rate": 61.6,
+    "Age Adjusted Death Rate": 79.7
+  },
+  {
+    "Year": 2012,
+    "Leading Cause": "All Other Causes",
+    "Sex": "M",
+    "Race Ethnicity": "Hispanic",
+    "Deaths": 1199,
+    "Death Rate": 102.6,
+    "Age Adjusted Death Rate": 150.5
+  },
+  {
+    "Year": 2012,
+    "Leading Cause": "All Other Causes",
+    "Sex": "F",
+    "Race Ethnicity": "Asian and Pacific Islander",
+    "Deaths": 327,
+    "Death Rate": 56,
+    "Age Adjusted Death Rate": 65
+  },
+  {
+    "Year": 2012,
+    "Leading Cause": "All Other Causes",
+    "Sex": "F",
+    "Race Ethnicity": "White Non-Hispanic",
+    "Deaths": 2444,
+    "Death Rate": 172.3,
+    "Age Adjusted Death Rate": 105.1
+  },
+  {
+    "Year": 2012,
+    "Leading Cause": "All Other Causes",
+    "Sex": "F",
+    "Race Ethnicity": "Not Stated/Unknown",
+    "Deaths": 53,
+    "Death Rate": "N/A",
+    "Age Adjusted Death Rate": "N/A"
+  },
+  {
+    "Year": 2012,
+    "Leading Cause": "All Other Causes",
+    "Sex": "F",
+    "Race Ethnicity": "Other Race/ Ethnicity",
+    "Deaths": 22,
+    "Death Rate": "N/A",
+    "Age Adjusted Death Rate": "N/A"
+  },
+  {
+    "Year": 2012,
+    "Leading Cause": "All Other Causes",
+    "Sex": "F",
+    "Race Ethnicity": "Hispanic",
+    "Deaths": 1109,
+    "Death Rate": 89.5,
+    "Age Adjusted Death Rate": 98.8
+  },
+  {
+    "Year": 2012,
+    "Leading Cause": "All Other Causes",
+    "Sex": "M",
+    "Race Ethnicity": "White Non-Hispanic",
+    "Deaths": 2316,
+    "Death Rate": 172.9,
+    "Age Adjusted Death Rate": 145.7
+  },
+  {
+    "Year": 2012,
+    "Leading Cause": "All Other Causes",
+    "Sex": "F",
+    "Race Ethnicity": "Black Non-Hispanic",
+    "Deaths": 1483,
+    "Death Rate": 141.9,
+    "Age Adjusted Death Rate": 127.3
+  },
+  {
+    "Year": 2013,
+    "Leading Cause": "All Other Causes",
+    "Sex": "F",
+    "Race Ethnicity": "Black Non-Hispanic",
+    "Deaths": 1557,
+    "Death Rate": 149.1,
+    "Age Adjusted Death Rate": 129.5
+  },
+  {
+    "Year": 2013,
+    "Leading Cause": "All Other Causes",
+    "Sex": "F",
+    "Race Ethnicity": "Not Stated/Unknown",
+    "Deaths": 79,
+    "Death Rate": "N/A",
+    "Age Adjusted Death Rate": "N/A"
+  },
+  {
+    "Year": 2013,
+    "Leading Cause": "All Other Causes",
+    "Sex": "F",
+    "Race Ethnicity": "Other Race/ Ethnicity",
+    "Deaths": 39,
+    "Death Rate": "N/A",
+    "Age Adjusted Death Rate": "N/A"
+  },
+  {
+    "Year": 2013,
+    "Leading Cause": "All Other Causes",
+    "Sex": "M",
+    "Race Ethnicity": "Not Stated/Unknown",
+    "Deaths": 139,
+    "Death Rate": "N/A",
+    "Age Adjusted Death Rate": "N/A"
+  },
+  {
+    "Year": 2013,
+    "Leading Cause": "All Other Causes",
+    "Sex": "F",
+    "Race Ethnicity": "White Non-Hispanic",
+    "Deaths": 2595,
+    "Death Rate": 182.5,
+    "Age Adjusted Death Rate": 111.1
+  },
+  {
+    "Year": 2013,
+    "Leading Cause": "All Other Causes",
+    "Sex": "M",
+    "Race Ethnicity": "Hispanic",
+    "Deaths": 1193,
+    "Death Rate": 101,
+    "Age Adjusted Death Rate": 146.4
+  },
+  {
+    "Year": 2013,
+    "Leading Cause": "All Other Causes",
+    "Sex": "M",
+    "Race Ethnicity": "White Non-Hispanic",
+    "Deaths": 2293,
+    "Death Rate": 170.3,
+    "Age Adjusted Death Rate": 143.3
+  },
+  {
+    "Year": 2013,
+    "Leading Cause": "All Other Causes",
+    "Sex": "M",
+    "Race Ethnicity": "Asian and Pacific Islander",
+    "Deaths": 395,
+    "Death Rate": 71.3,
+    "Age Adjusted Death Rate": 89.8
+  },
+  {
+    "Year": 2013,
+    "Leading Cause": "All Other Causes",
+    "Sex": "F",
+    "Race Ethnicity": "Hispanic",
+    "Deaths": 1082,
+    "Death Rate": 86.7,
+    "Age Adjusted Death Rate": 94
+  },
+  {
+    "Year": 2013,
+    "Leading Cause": "All Other Causes",
+    "Sex": "M",
+    "Race Ethnicity": "Black Non-Hispanic",
+    "Deaths": 1341,
+    "Death Rate": 156.3,
+    "Age Adjusted Death Rate": 175.7
+  },
+  {
+    "Year": 2013,
+    "Leading Cause": "All Other Causes",
+    "Sex": "M",
+    "Race Ethnicity": "Other Race/ Ethnicity",
+    "Deaths": 42,
+    "Death Rate": "N/A",
+    "Age Adjusted Death Rate": "N/A"
+  },
+  {
+    "Year": 2013,
+    "Leading Cause": "All Other Causes",
+    "Sex": "F",
+    "Race Ethnicity": "Asian and Pacific Islander",
+    "Deaths": 320,
+    "Death Rate": 53.3,
+    "Age Adjusted Death Rate": 59
+  },
+  {
+    "Year": 2014,
+    "Leading Cause": "All Other Causes",
+    "Sex": "M",
+    "Race Ethnicity": "Asian and Pacific Islander",
+    "Deaths": 424,
+    "Death Rate": 73.9,
+    "Age Adjusted Death Rate": 90.4
+  },
+  {
+    "Year": 2014,
+    "Leading Cause": "All Other Causes",
+    "Sex": "M",
+    "Race Ethnicity": "Not Stated/Unknown",
+    "Deaths": 96,
+    "Death Rate": "N/A",
+    "Age Adjusted Death Rate": "N/A"
+  },
+  {
+    "Year": 2014,
+    "Leading Cause": "All Other Causes",
+    "Sex": "F",
+    "Race Ethnicity": "Not Stated/Unknown",
+    "Deaths": 48,
+    "Death Rate": "N/A",
+    "Age Adjusted Death Rate": "N/A"
+  },
+  {
+    "Year": 2014,
+    "Leading Cause": "All Other Causes",
+    "Sex": "F",
+    "Race Ethnicity": "Other Race/ Ethnicity",
+    "Deaths": 59,
+    "Death Rate": "N/A",
+    "Age Adjusted Death Rate": "N/A"
+  },
+  {
+    "Year": 2014,
+    "Leading Cause": "All Other Causes",
+    "Sex": "M",
+    "Race Ethnicity": "Other Race/ Ethnicity",
+    "Deaths": 74,
+    "Death Rate": "N/A",
+    "Age Adjusted Death Rate": "N/A"
+  },
+  {
+    "Year": 2014,
+    "Leading Cause": "All Other Causes",
+    "Sex": "M",
+    "Race Ethnicity": "Hispanic",
+    "Deaths": 1195,
+    "Death Rate": 100.1,
+    "Age Adjusted Death Rate": 143.3
+  },
+  {
+    "Year": 2014,
+    "Leading Cause": "All Other Causes",
+    "Sex": "F",
+    "Race Ethnicity": "Hispanic",
+    "Deaths": 1135,
+    "Death Rate": 89.6,
+    "Age Adjusted Death Rate": 96
+  },
+  {
+    "Year": 2014,
+    "Leading Cause": "All Other Causes",
+    "Sex": "F",
+    "Race Ethnicity": "Asian and Pacific Islander",
+    "Deaths": 339,
+    "Death Rate": 54.2,
+    "Age Adjusted Death Rate": 59
+  },
+  {
+    "Year": 2014,
+    "Leading Cause": "All Other Causes",
+    "Sex": "F",
+    "Race Ethnicity": "White Non-Hispanic",
+    "Deaths": 2578,
+    "Death Rate": 181.9,
+    "Age Adjusted Death Rate": 110.7
+  },
+  {
+    "Year": 2014,
+    "Leading Cause": "All Other Causes",
+    "Sex": "M",
+    "Race Ethnicity": "Black Non-Hispanic",
+    "Deaths": 1375,
+    "Death Rate": 159.3,
+    "Age Adjusted Death Rate": 177.8
+  },
+  {
+    "Year": 2014,
+    "Leading Cause": "All Other Causes",
+    "Sex": "F",
+    "Race Ethnicity": "Black Non-Hispanic",
+    "Deaths": 1536,
+    "Death Rate": 146.4,
+    "Age Adjusted Death Rate": 126.4
+  },
+  {
+    "Year": 2014,
+    "Leading Cause": "All Other Causes",
+    "Sex": "M",
+    "Race Ethnicity": "White Non-Hispanic",
+    "Deaths": 2275,
+    "Death Rate": 169.4,
+    "Age Adjusted Death Rate": 141.3
+  },
+  {
+    "Year": 2007,
+    "Leading Cause": "Diabetes Mellitus (E10-E14)",
+    "Sex": "F",
+    "Race Ethnicity": "Hispanic",
+    "Deaths": 205,
+    "Death Rate": 17.6,
+    "Age Adjusted Death Rate": 22.6
+  },
+  {
+    "Year": 2007,
+    "Leading Cause": "Diabetes Mellitus (E10-E14)",
+    "Sex": "F",
+    "Race Ethnicity": "Other Race/ Ethnicity",
+    "Deaths": "N/A",
+    "Death Rate": "N/A",
+    "Age Adjusted Death Rate": "N/A"
+  },
+  {
+    "Year": 2007,
+    "Leading Cause": "Diabetes Mellitus (E10-E14)",
+    "Sex": "M",
+    "Race Ethnicity": "Black Non-Hispanic",
+    "Deaths": 246,
+    "Death Rate": 28.9,
+    "Age Adjusted Death Rate": 38.1
+  },
+  {
+    "Year": 2007,
+    "Leading Cause": "Diabetes Mellitus (E10-E14)",
+    "Sex": "M",
+    "Race Ethnicity": "Asian and Pacific Islander",
+    "Deaths": 47,
+    "Death Rate": 9.7,
+    "Age Adjusted Death Rate": 13.6
+  },
+  {
+    "Year": 2007,
+    "Leading Cause": "Diabetes Mellitus (E10-E14)",
+    "Sex": "F",
+    "Race Ethnicity": "Not Stated/Unknown",
+    "Deaths": "N/A",
+    "Death Rate": "N/A",
+    "Age Adjusted Death Rate": "N/A"
+  },
+  {
+    "Year": 2007,
+    "Leading Cause": "Diabetes Mellitus (E10-E14)",
+    "Sex": "M",
+    "Race Ethnicity": "Not Stated/Unknown",
+    "Deaths": 9,
+    "Death Rate": "N/A",
+    "Age Adjusted Death Rate": "N/A"
+  },
+  {
+    "Year": 2007,
+    "Leading Cause": "Diabetes Mellitus (E10-E14)",
+    "Sex": "F",
+    "Race Ethnicity": "Black Non-Hispanic",
+    "Deaths": 358,
+    "Death Rate": 34,
+    "Age Adjusted Death Rate": 32.5
+  },
+  {
+    "Year": 2007,
+    "Leading Cause": "Diabetes Mellitus (E10-E14)",
+    "Sex": "M",
+    "Race Ethnicity": "Other Race/ Ethnicity",
+    "Deaths": 11,
+    "Death Rate": "N/A",
+    "Age Adjusted Death Rate": "N/A"
+  },
+  {
+    "Year": 2007,
+    "Leading Cause": "Diabetes Mellitus (E10-E14)",
+    "Sex": "F",
+    "Race Ethnicity": "Asian and Pacific Islander",
+    "Deaths": 34,
+    "Death Rate": 6.6,
+    "Age Adjusted Death Rate": 8.3
+  },
+  {
+    "Year": 2007,
+    "Leading Cause": "Diabetes Mellitus (E10-E14)",
+    "Sex": "M",
+    "Race Ethnicity": "Hispanic",
+    "Deaths": 177,
+    "Death Rate": 16.2,
+    "Age Adjusted Death Rate": 27.6
+  },
+  {
+    "Year": 2007,
+    "Leading Cause": "Diabetes Mellitus (E10-E14)",
+    "Sex": "M",
+    "Race Ethnicity": "White Non-Hispanic",
+    "Deaths": 237,
+    "Death Rate": 17.7,
+    "Age Adjusted Death Rate": 15
+  },
+  {
+    "Year": 2007,
+    "Leading Cause": "Diabetes Mellitus (E10-E14)",
+    "Sex": "F",
+    "Race Ethnicity": "White Non-Hispanic",
+    "Deaths": 231,
+    "Death Rate": 16.1,
+    "Age Adjusted Death Rate": 9.8
+  },
+  {
+    "Year": 2008,
+    "Leading Cause": "Diabetes Mellitus (E10-E14)",
+    "Sex": "F",
+    "Race Ethnicity": "White Non-Hispanic",
+    "Deaths": 210,
+    "Death Rate": 14.6,
+    "Age Adjusted Death Rate": 8.8
+  },
+  {
+    "Year": 2008,
+    "Leading Cause": "Diabetes Mellitus (E10-E14)",
+    "Sex": "M",
+    "Race Ethnicity": "Hispanic",
+    "Deaths": 191,
+    "Death Rate": 17.3,
+    "Age Adjusted Death Rate": 31.3
+  },
+  {
+    "Year": 2008,
+    "Leading Cause": "Diabetes Mellitus (E10-E14)",
+    "Sex": "F",
+    "Race Ethnicity": "Black Non-Hispanic",
+    "Deaths": 380,
+    "Death Rate": 36.3,
+    "Age Adjusted Death Rate": 34.3
+  },
+  {
+    "Year": 2008,
+    "Leading Cause": "Diabetes Mellitus (E10-E14)",
+    "Sex": "M",
+    "Race Ethnicity": "White Non-Hispanic",
+    "Deaths": 246,
+    "Death Rate": 18.3,
+    "Age Adjusted Death Rate": 15.6
+  },
+  {
+    "Year": 2008,
+    "Leading Cause": "Diabetes Mellitus (E10-E14)",
+    "Sex": "M",
+    "Race Ethnicity": "Black Non-Hispanic",
+    "Deaths": 265,
+    "Death Rate": 31.2,
+    "Age Adjusted Death Rate": 40.2
+  },
+  {
+    "Year": 2008,
+    "Leading Cause": "Diabetes Mellitus (E10-E14)",
+    "Sex": "F",
+    "Race Ethnicity": "Not Stated/Unknown",
+    "Deaths": 12,
+    "Death Rate": "N/A",
+    "Age Adjusted Death Rate": "N/A"
+  },
+  {
+    "Year": 2008,
+    "Leading Cause": "Diabetes Mellitus (E10-E14)",
+    "Sex": "M",
+    "Race Ethnicity": "Asian and Pacific Islander",
+    "Deaths": 52,
+    "Death Rate": 10.4,
+    "Age Adjusted Death Rate": 14.9
+  },
+  {
+    "Year": 2008,
+    "Leading Cause": "Diabetes Mellitus (E10-E14)",
+    "Sex": "F",
+    "Race Ethnicity": "Other Race/ Ethnicity",
+    "Deaths": "N/A",
+    "Death Rate": "N/A",
+    "Age Adjusted Death Rate": "N/A"
+  },
+  {
+    "Year": 2008,
+    "Leading Cause": "Diabetes Mellitus (E10-E14)",
+    "Sex": "F",
+    "Race Ethnicity": "Hispanic",
+    "Deaths": 228,
+    "Death Rate": 19.3,
+    "Age Adjusted Death Rate": 24.1
+  },
+  {
+    "Year": 2008,
+    "Leading Cause": "Diabetes Mellitus (E10-E14)",
+    "Sex": "F",
+    "Race Ethnicity": "Asian and Pacific Islander",
+    "Deaths": 47,
+    "Death Rate": 8.8,
+    "Age Adjusted Death Rate": 11.3
+  },
+  {
+    "Year": 2008,
+    "Leading Cause": "Diabetes Mellitus (E10-E14)",
+    "Sex": "M",
+    "Race Ethnicity": "Other Race/ Ethnicity",
+    "Deaths": "N/A",
+    "Death Rate": "N/A",
+    "Age Adjusted Death Rate": "N/A"
+  },
+  {
+    "Year": 2009,
+    "Leading Cause": "Diabetes Mellitus (E10-E14)",
+    "Sex": "M",
+    "Race Ethnicity": "White Non-Hispanic",
+    "Deaths": 290,
+    "Death Rate": 21.6,
+    "Age Adjusted Death Rate": 18.2
+  },
+  {
+    "Year": 2009,
+    "Leading Cause": "Diabetes Mellitus (E10-E14)",
+    "Sex": "F",
+    "Race Ethnicity": "Hispanic",
+    "Deaths": 215,
+    "Death Rate": 18,
+    "Age Adjusted Death Rate": 22.2
+  },
+  {
+    "Year": 2009,
+    "Leading Cause": "Diabetes Mellitus (E10-E14)",
+    "Sex": "F",
+    "Race Ethnicity": "Other Race/ Ethnicity",
+    "Deaths": "N/A",
+    "Death Rate": "N/A",
+    "Age Adjusted Death Rate": "N/A"
+  },
+  {
+    "Year": 2009,
+    "Leading Cause": "Diabetes Mellitus (E10-E14)",
+    "Sex": "F",
+    "Race Ethnicity": "Black Non-Hispanic",
+    "Deaths": 384,
+    "Death Rate": 36.7,
+    "Age Adjusted Death Rate": 33.7
+  },
+  {
+    "Year": 2009,
+    "Leading Cause": "Diabetes Mellitus (E10-E14)",
+    "Sex": "F",
+    "Race Ethnicity": "White Non-Hispanic",
+    "Deaths": 229,
+    "Death Rate": 15.9,
+    "Age Adjusted Death Rate": 9.5
+  },
+  {
+    "Year": 2009,
+    "Leading Cause": "Diabetes Mellitus (E10-E14)",
+    "Sex": "F",
+    "Race Ethnicity": "Asian and Pacific Islander",
+    "Deaths": 55,
+    "Death Rate": 10,
+    "Age Adjusted Death Rate": 12.7
+  },
+  {
+    "Year": 2009,
+    "Leading Cause": "Diabetes Mellitus (E10-E14)",
+    "Sex": "M",
+    "Race Ethnicity": "Black Non-Hispanic",
+    "Deaths": 285,
+    "Death Rate": 33.6,
+    "Age Adjusted Death Rate": 41.4
+  },
+  {
+    "Year": 2009,
+    "Leading Cause": "Diabetes Mellitus (E10-E14)",
+    "Sex": "M",
+    "Race Ethnicity": "Asian and Pacific Islander",
+    "Deaths": 48,
+    "Death Rate": 9.4,
+    "Age Adjusted Death Rate": 13.3
+  },
+  {
+    "Year": 2009,
+    "Leading Cause": "Diabetes Mellitus (E10-E14)",
+    "Sex": "M",
+    "Race Ethnicity": "Hispanic",
+    "Deaths": 172,
+    "Death Rate": 15.3,
+    "Age Adjusted Death Rate": 25.4
+  },
+  {
+    "Year": 2009,
+    "Leading Cause": "Diabetes Mellitus (E10-E14)",
+    "Sex": "M",
+    "Race Ethnicity": "Other Race/ Ethnicity",
+    "Deaths": "N/A",
+    "Death Rate": "N/A",
+    "Age Adjusted Death Rate": "N/A"
+  },
+  {
+    "Year": 2010,
+    "Leading Cause": "Diabetes Mellitus (E10-E14)",
+    "Sex": "F",
+    "Race Ethnicity": "Black Non-Hispanic",
+    "Deaths": 384,
+    "Death Rate": 36.6,
+    "Age Adjusted Death Rate": 33
+  },
+  {
+    "Year": 2010,
+    "Leading Cause": "Diabetes Mellitus (E10-E14)",
+    "Sex": "F",
+    "Race Ethnicity": "Hispanic",
+    "Deaths": 219,
+    "Death Rate": 18,
+    "Age Adjusted Death Rate": 21.5
+  },
+  {
+    "Year": 2010,
+    "Leading Cause": "Diabetes Mellitus (E10-E14)",
+    "Sex": "F",
+    "Race Ethnicity": "Not Stated/Unknown",
+    "Deaths": 5,
+    "Death Rate": "N/A",
+    "Age Adjusted Death Rate": "N/A"
+  },
+  {
+    "Year": 2010,
+    "Leading Cause": "Diabetes Mellitus (E10-E14)",
+    "Sex": "F",
+    "Race Ethnicity": "Asian and Pacific Islander",
+    "Deaths": 51,
+    "Death Rate": 9.1,
+    "Age Adjusted Death Rate": 11.3
+  },
+  {
+    "Year": 2010,
+    "Leading Cause": "Diabetes Mellitus (E10-E14)",
+    "Sex": "M",
+    "Race Ethnicity": "Black Non-Hispanic",
+    "Deaths": 279,
+    "Death Rate": 32.8,
+    "Age Adjusted Death Rate": 41
+  },
+  {
+    "Year": 2010,
+    "Leading Cause": "Diabetes Mellitus (E10-E14)",
+    "Sex": "M",
+    "Race Ethnicity": "Asian and Pacific Islander",
+    "Deaths": 64,
+    "Death Rate": 12.3,
+    "Age Adjusted Death Rate": 15.5
+  },
+  {
+    "Year": 2010,
+    "Leading Cause": "Diabetes Mellitus (E10-E14)",
+    "Sex": "M",
+    "Race Ethnicity": "Other Race/ Ethnicity",
+    "Deaths": 5,
+    "Death Rate": "N/A",
+    "Age Adjusted Death Rate": "N/A"
+  },
+  {
+    "Year": 2010,
+    "Leading Cause": "Diabetes Mellitus (E10-E14)",
+    "Sex": "M",
+    "Race Ethnicity": "Not Stated/Unknown",
+    "Deaths": 7,
+    "Death Rate": "N/A",
+    "Age Adjusted Death Rate": "N/A"
+  },
+  {
+    "Year": 2010,
+    "Leading Cause": "Diabetes Mellitus (E10-E14)",
+    "Sex": "M",
+    "Race Ethnicity": "Hispanic",
+    "Deaths": 187,
+    "Death Rate": 16.4,
+    "Age Adjusted Death Rate": 27.3
+  },
+  {
+    "Year": 2010,
+    "Leading Cause": "Diabetes Mellitus (E10-E14)",
+    "Sex": "F",
+    "Race Ethnicity": "White Non-Hispanic",
+    "Deaths": 258,
+    "Death Rate": 18,
+    "Age Adjusted Death Rate": 11.1
+  },
+  {
+    "Year": 2010,
+    "Leading Cause": "Diabetes Mellitus (E10-E14)",
+    "Sex": "M",
+    "Race Ethnicity": "White Non-Hispanic",
+    "Deaths": 245,
+    "Death Rate": 18.3,
+    "Age Adjusted Death Rate": 15.6
+  },
+  {
+    "Year": 2010,
+    "Leading Cause": "Diabetes Mellitus (E10-E14)",
+    "Sex": "F",
+    "Race Ethnicity": "Other Race/ Ethnicity",
+    "Deaths": 7,
+    "Death Rate": "N/A",
+    "Age Adjusted Death Rate": "N/A"
+  },
+  {
+    "Year": 2011,
+    "Leading Cause": "Diabetes Mellitus (E10-E14)",
+    "Sex": "F",
+    "Race Ethnicity": "Hispanic",
+    "Deaths": 196,
+    "Death Rate": 16,
+    "Age Adjusted Death Rate": 18.5
+  },
+  {
+    "Year": 2011,
+    "Leading Cause": "Diabetes Mellitus (E10-E14)",
+    "Sex": "M",
+    "Race Ethnicity": "White Non-Hispanic",
+    "Deaths": 258,
+    "Death Rate": 19.3,
+    "Age Adjusted Death Rate": 16.3
+  },
+  {
+    "Year": 2011,
+    "Leading Cause": "Diabetes Mellitus (E10-E14)",
+    "Sex": "F",
+    "Race Ethnicity": "Asian and Pacific Islander",
+    "Deaths": 51,
+    "Death Rate": 8.9,
+    "Age Adjusted Death Rate": 10.7
+  },
+  {
+    "Year": 2011,
+    "Leading Cause": "Diabetes Mellitus (E10-E14)",
+    "Sex": "M",
+    "Race Ethnicity": "Black Non-Hispanic",
+    "Deaths": 307,
+    "Death Rate": 36,
+    "Age Adjusted Death Rate": 43.9
+  },
+  {
+    "Year": 2011,
+    "Leading Cause": "Diabetes Mellitus (E10-E14)",
+    "Sex": "M",
+    "Race Ethnicity": "Other Race/ Ethnicity",
+    "Deaths": 14,
+    "Death Rate": "N/A",
+    "Age Adjusted Death Rate": "N/A"
+  },
+  {
+    "Year": 2011,
+    "Leading Cause": "Diabetes Mellitus (E10-E14)",
+    "Sex": "F",
+    "Race Ethnicity": "Not Stated/Unknown",
+    "Deaths": 6,
+    "Death Rate": "N/A",
+    "Age Adjusted Death Rate": "N/A"
+  },
+  {
+    "Year": 2011,
+    "Leading Cause": "Diabetes Mellitus (E10-E14)",
+    "Sex": "M",
+    "Race Ethnicity": "Asian and Pacific Islander",
+    "Deaths": 60,
+    "Death Rate": 11.4,
+    "Age Adjusted Death Rate": 14.3
+  },
+  {
+    "Year": 2011,
+    "Leading Cause": "Diabetes Mellitus (E10-E14)",
+    "Sex": "M",
+    "Race Ethnicity": "Not Stated/Unknown",
+    "Deaths": 7,
+    "Death Rate": "N/A",
+    "Age Adjusted Death Rate": "N/A"
+  },
+  {
+    "Year": 2011,
+    "Leading Cause": "Diabetes Mellitus (E10-E14)",
+    "Sex": "F",
+    "Race Ethnicity": "Other Race/ Ethnicity",
+    "Deaths": 8,
+    "Death Rate": "N/A",
+    "Age Adjusted Death Rate": "N/A"
+  },
+  {
+    "Year": 2011,
+    "Leading Cause": "Diabetes Mellitus (E10-E14)",
+    "Sex": "F",
+    "Race Ethnicity": "White Non-Hispanic",
+    "Deaths": 253,
+    "Death Rate": 17.9,
+    "Age Adjusted Death Rate": 11.1
+  },
+  {
+    "Year": 2011,
+    "Leading Cause": "Diabetes Mellitus (E10-E14)",
+    "Sex": "M",
+    "Race Ethnicity": "Hispanic",
+    "Deaths": 200,
+    "Death Rate": 17.3,
+    "Age Adjusted Death Rate": 29.2
+  },
+  {
+    "Year": 2011,
+    "Leading Cause": "Diabetes Mellitus (E10-E14)",
+    "Sex": "F",
+    "Race Ethnicity": "Black Non-Hispanic",
+    "Deaths": 410,
+    "Death Rate": 39.2,
+    "Age Adjusted Death Rate": 34.7
+  },
+  {
+    "Year": 2012,
+    "Leading Cause": "Diabetes Mellitus (E10-E14)",
+    "Sex": "F",
+    "Race Ethnicity": "Other Race/ Ethnicity",
+    "Deaths": 9,
+    "Death Rate": "N/A",
+    "Age Adjusted Death Rate": "N/A"
+  },
+  {
+    "Year": 2012,
+    "Leading Cause": "Diabetes Mellitus (E10-E14)",
+    "Sex": "F",
+    "Race Ethnicity": "White Non-Hispanic",
+    "Deaths": 240,
+    "Death Rate": 16.9,
+    "Age Adjusted Death Rate": 10.3
+  },
+  {
+    "Year": 2012,
+    "Leading Cause": "Diabetes Mellitus (E10-E14)",
+    "Sex": "F",
+    "Race Ethnicity": "Black Non-Hispanic",
+    "Deaths": 409,
+    "Death Rate": 39.1,
+    "Age Adjusted Death Rate": 33.8
+  },
+  {
+    "Year": 2012,
+    "Leading Cause": "Diabetes Mellitus (E10-E14)",
+    "Sex": "F",
+    "Race Ethnicity": "Asian and Pacific Islander",
+    "Deaths": 57,
+    "Death Rate": 9.8,
+    "Age Adjusted Death Rate": 11.4
+  },
+  {
+    "Year": 2012,
+    "Leading Cause": "Diabetes Mellitus (E10-E14)",
+    "Sex": "F",
+    "Race Ethnicity": "Hispanic",
+    "Deaths": 200,
+    "Death Rate": 16.1,
+    "Age Adjusted Death Rate": 18.4
+  },
+  {
+    "Year": 2012,
+    "Leading Cause": "Diabetes Mellitus (E10-E14)",
+    "Sex": "M",
+    "Race Ethnicity": "Black Non-Hispanic",
+    "Deaths": 308,
+    "Death Rate": 36,
+    "Age Adjusted Death Rate": 42.9
+  },
+  {
+    "Year": 2012,
+    "Leading Cause": "Diabetes Mellitus (E10-E14)",
+    "Sex": "F",
+    "Race Ethnicity": "Not Stated/Unknown",
+    "Deaths": 15,
+    "Death Rate": "N/A",
+    "Age Adjusted Death Rate": "N/A"
+  },
+  {
+    "Year": 2012,
+    "Leading Cause": "Diabetes Mellitus (E10-E14)",
+    "Sex": "M",
+    "Race Ethnicity": "Hispanic",
+    "Deaths": 194,
+    "Death Rate": 16.6,
+    "Age Adjusted Death Rate": 26.1
+  },
+  {
+    "Year": 2012,
+    "Leading Cause": "Diabetes Mellitus (E10-E14)",
+    "Sex": "M",
+    "Race Ethnicity": "Asian and Pacific Islander",
+    "Deaths": 76,
+    "Death Rate": 14.1,
+    "Age Adjusted Death Rate": 18
+  },
+  {
+    "Year": 2012,
+    "Leading Cause": "Diabetes Mellitus (E10-E14)",
+    "Sex": "M",
+    "Race Ethnicity": "Other Race/ Ethnicity",
+    "Deaths": 8,
+    "Death Rate": "N/A",
+    "Age Adjusted Death Rate": "N/A"
+  },
+  {
+    "Year": 2012,
+    "Leading Cause": "Diabetes Mellitus (E10-E14)",
+    "Sex": "M",
+    "Race Ethnicity": "White Non-Hispanic",
+    "Deaths": 292,
+    "Death Rate": 21.8,
+    "Age Adjusted Death Rate": 18.1
+  },
+  {
+    "Year": 2013,
+    "Leading Cause": "Diabetes Mellitus (E10-E14)",
+    "Sex": "M",
+    "Race Ethnicity": "Black Non-Hispanic",
+    "Deaths": 300,
+    "Death Rate": 35,
+    "Age Adjusted Death Rate": 41.1
+  },
+  {
+    "Year": 2013,
+    "Leading Cause": "Diabetes Mellitus (E10-E14)",
+    "Sex": "F",
+    "Race Ethnicity": "Black Non-Hispanic",
+    "Deaths": 410,
+    "Death Rate": 39.3,
+    "Age Adjusted Death Rate": 33.1
+  },
+  {
+    "Year": 2013,
+    "Leading Cause": "Diabetes Mellitus (E10-E14)",
+    "Sex": "M",
+    "Race Ethnicity": "Hispanic",
+    "Deaths": 192,
+    "Death Rate": 16.3,
+    "Age Adjusted Death Rate": 24.9
+  },
+  {
+    "Year": 2013,
+    "Leading Cause": "Diabetes Mellitus (E10-E14)",
+    "Sex": "M",
+    "Race Ethnicity": "Asian and Pacific Islander",
+    "Deaths": 96,
+    "Death Rate": 17.3,
+    "Age Adjusted Death Rate": 21.1
+  },
+  {
+    "Year": 2013,
+    "Leading Cause": "Diabetes Mellitus (E10-E14)",
+    "Sex": "M",
+    "Race Ethnicity": "Not Stated/Unknown",
+    "Deaths": 19,
+    "Death Rate": "N/A",
+    "Age Adjusted Death Rate": "N/A"
+  },
+  {
+    "Year": 2013,
+    "Leading Cause": "Diabetes Mellitus (E10-E14)",
+    "Sex": "F",
+    "Race Ethnicity": "Asian and Pacific Islander",
+    "Deaths": 60,
+    "Death Rate": 10,
+    "Age Adjusted Death Rate": 10.9
+  },
+  {
+    "Year": 2013,
+    "Leading Cause": "Diabetes Mellitus (E10-E14)",
+    "Sex": "M",
+    "Race Ethnicity": "White Non-Hispanic",
+    "Deaths": 265,
+    "Death Rate": 19.7,
+    "Age Adjusted Death Rate": 16.4
+  },
+  {
+    "Year": 2013,
+    "Leading Cause": "Diabetes Mellitus (E10-E14)",
+    "Sex": "F",
+    "Race Ethnicity": "Not Stated/Unknown",
+    "Deaths": 15,
+    "Death Rate": "N/A",
+    "Age Adjusted Death Rate": "N/A"
+  },
+  {
+    "Year": 2013,
+    "Leading Cause": "Diabetes Mellitus (E10-E14)",
+    "Sex": "F",
+    "Race Ethnicity": "White Non-Hispanic",
+    "Deaths": 238,
+    "Death Rate": 16.7,
+    "Age Adjusted Death Rate": 10.4
+  },
+  {
+    "Year": 2013,
+    "Leading Cause": "Diabetes Mellitus (E10-E14)",
+    "Sex": "F",
+    "Race Ethnicity": "Other Race/ Ethnicity",
+    "Deaths": 10,
+    "Death Rate": "N/A",
+    "Age Adjusted Death Rate": "N/A"
+  },
+  {
+    "Year": 2013,
+    "Leading Cause": "Diabetes Mellitus (E10-E14)",
+    "Sex": "M",
+    "Race Ethnicity": "Other Race/ Ethnicity",
+    "Deaths": 17,
+    "Death Rate": "N/A",
+    "Age Adjusted Death Rate": "N/A"
+  },
+  {
+    "Year": 2013,
+    "Leading Cause": "Diabetes Mellitus (E10-E14)",
+    "Sex": "F",
+    "Race Ethnicity": "Hispanic",
+    "Deaths": 221,
+    "Death Rate": 17.7,
+    "Age Adjusted Death Rate": 19.6
+  },
+  {
+    "Year": 2014,
+    "Leading Cause": "Diabetes Mellitus (E10-E14)",
+    "Sex": "F",
+    "Race Ethnicity": "Other Race/ Ethnicity",
+    "Deaths": 11,
+    "Death Rate": "N/A",
+    "Age Adjusted Death Rate": "N/A"
+  },
+  {
+    "Year": 2014,
+    "Leading Cause": "Diabetes Mellitus (E10-E14)",
+    "Sex": "M",
+    "Race Ethnicity": "Asian and Pacific Islander",
+    "Deaths": 71,
+    "Death Rate": 12.4,
+    "Age Adjusted Death Rate": 14.2
+  },
+  {
+    "Year": 2014,
+    "Leading Cause": "Diabetes Mellitus (E10-E14)",
+    "Sex": "M",
+    "Race Ethnicity": "White Non-Hispanic",
+    "Deaths": 292,
+    "Death Rate": 21.7,
+    "Age Adjusted Death Rate": 18.1
+  },
+  {
+    "Year": 2014,
+    "Leading Cause": "Diabetes Mellitus (E10-E14)",
+    "Sex": "F",
+    "Race Ethnicity": "Hispanic",
+    "Deaths": 209,
+    "Death Rate": 16.5,
+    "Age Adjusted Death Rate": 17.9
+  },
+  {
+    "Year": 2014,
+    "Leading Cause": "Diabetes Mellitus (E10-E14)",
+    "Sex": "F",
+    "Race Ethnicity": "Asian and Pacific Islander",
+    "Deaths": 50,
+    "Death Rate": 8,
+    "Age Adjusted Death Rate": 8.5
+  },
+  {
+    "Year": 2014,
+    "Leading Cause": "Diabetes Mellitus (E10-E14)",
+    "Sex": "M",
+    "Race Ethnicity": "Black Non-Hispanic",
+    "Deaths": 318,
+    "Death Rate": 36.8,
+    "Age Adjusted Death Rate": 42.2
+  },
+  {
+    "Year": 2014,
+    "Leading Cause": "Diabetes Mellitus (E10-E14)",
+    "Sex": "M",
+    "Race Ethnicity": "Other Race/ Ethnicity",
+    "Deaths": 18,
+    "Death Rate": "N/A",
+    "Age Adjusted Death Rate": "N/A"
+  },
+  {
+    "Year": 2014,
+    "Leading Cause": "Diabetes Mellitus (E10-E14)",
+    "Sex": "F",
+    "Race Ethnicity": "White Non-Hispanic",
+    "Deaths": 228,
+    "Death Rate": 16.1,
+    "Age Adjusted Death Rate": 10
+  },
+  {
+    "Year": 2014,
+    "Leading Cause": "Diabetes Mellitus (E10-E14)",
+    "Sex": "M",
+    "Race Ethnicity": "Not Stated/Unknown",
+    "Deaths": 8,
+    "Death Rate": "N/A",
+    "Age Adjusted Death Rate": "N/A"
+  },
+  {
+    "Year": 2014,
+    "Leading Cause": "Diabetes Mellitus (E10-E14)",
+    "Sex": "F",
+    "Race Ethnicity": "Black Non-Hispanic",
+    "Deaths": 398,
+    "Death Rate": 37.9,
+    "Age Adjusted Death Rate": 31.6
+  },
+  {
+    "Year": 2014,
+    "Leading Cause": "Diabetes Mellitus (E10-E14)",
+    "Sex": "F",
+    "Race Ethnicity": "Not Stated/Unknown",
+    "Deaths": 9,
+    "Death Rate": "N/A",
+    "Age Adjusted Death Rate": "N/A"
+  },
+  {
+    "Year": 2014,
+    "Leading Cause": "Diabetes Mellitus (E10-E14)",
+    "Sex": "M",
+    "Race Ethnicity": "Hispanic",
+    "Deaths": 186,
+    "Death Rate": 15.6,
+    "Age Adjusted Death Rate": 23.2
+  },
+  {
+    "Year": 2007,
+    "Leading Cause": "Diseases of Heart (I00-I09, I11, I13, I20-I51)",
+    "Sex": "M",
+    "Race Ethnicity": "Black Non-Hispanic",
+    "Deaths": 2121,
+    "Death Rate": 248.9,
+    "Age Adjusted Death Rate": 340.2
+  },
+  {
+    "Year": 2007,
+    "Leading Cause": "Diseases of Heart (I00-I09, I11, I13, I20-I51)",
+    "Sex": "F",
+    "Race Ethnicity": "Hispanic",
+    "Deaths": 1418,
+    "Death Rate": 121.5,
+    "Age Adjusted Death Rate": 164.3
+  },
+  {
+    "Year": 2007,
+    "Leading Cause": "Diseases of Heart (I00-I09, I11, I13, I20-I51)",
+    "Sex": "M",
+    "Race Ethnicity": "Asian and Pacific Islander",
+    "Deaths": 496,
+    "Death Rate": 102.5,
+    "Age Adjusted Death Rate": 157.8
+  },
+  {
+    "Year": 2007,
+    "Leading Cause": "Diseases of Heart (I00-I09, I11, I13, I20-I51)",
+    "Sex": "F",
+    "Race Ethnicity": "Asian and Pacific Islander",
+    "Deaths": 428,
+    "Death Rate": 83.1,
+    "Age Adjusted Death Rate": 115.2
+  },
+  {
+    "Year": 2007,
+    "Leading Cause": "Diseases of Heart (I00-I09, I11, I13, I20-I51)",
+    "Sex": "F",
+    "Race Ethnicity": "Black Non-Hispanic",
+    "Deaths": 2722,
+    "Death Rate": 258.6,
+    "Age Adjusted Death Rate": 247.3
+  },
+  {
+    "Year": 2007,
+    "Leading Cause": "Diseases of Heart (I00-I09, I11, I13, I20-I51)",
+    "Sex": "M",
+    "Race Ethnicity": "Not Stated/Unknown",
+    "Deaths": 86,
+    "Death Rate": "N/A",
+    "Age Adjusted Death Rate": "N/A"
+  },
+  {
+    "Year": 2007,
+    "Leading Cause": "Diseases of Heart (I00-I09, I11, I13, I20-I51)",
+    "Sex": "F",
+    "Race Ethnicity": "Other Race/ Ethnicity",
+    "Deaths": 43,
+    "Death Rate": "N/A",
+    "Age Adjusted Death Rate": "N/A"
+  },
+  {
+    "Year": 2007,
+    "Leading Cause": "Diseases of Heart (I00-I09, I11, I13, I20-I51)",
+    "Sex": "M",
+    "Race Ethnicity": "White Non-Hispanic",
+    "Deaths": 5632,
+    "Death Rate": 421,
+    "Age Adjusted Death Rate": 350.7
+  },
+  {
+    "Year": 2007,
+    "Leading Cause": "Diseases of Heart (I00-I09, I11, I13, I20-I51)",
+    "Sex": "M",
+    "Race Ethnicity": "Other Race/ Ethnicity",
+    "Deaths": 36,
+    "Death Rate": "N/A",
+    "Age Adjusted Death Rate": "N/A"
+  },
+  {
+    "Year": 2007,
+    "Leading Cause": "Diseases of Heart (I00-I09, I11, I13, I20-I51)",
+    "Sex": "F",
+    "Race Ethnicity": "White Non-Hispanic",
+    "Deaths": 7050,
+    "Death Rate": 491.4,
+    "Age Adjusted Death Rate": 250.7
+  },
+  {
+    "Year": 2007,
+    "Leading Cause": "Diseases of Heart (I00-I09, I11, I13, I20-I51)",
+    "Sex": "M",
+    "Race Ethnicity": "Hispanic",
+    "Deaths": 1327,
+    "Death Rate": 121.7,
+    "Age Adjusted Death Rate": 238.4
+  },
+  {
+    "Year": 2007,
+    "Leading Cause": "Diseases of Heart (I00-I09, I11, I13, I20-I51)",
+    "Sex": "F",
+    "Race Ethnicity": "Not Stated/Unknown",
+    "Deaths": 82,
+    "Death Rate": "N/A",
+    "Age Adjusted Death Rate": "N/A"
+  },
+  {
+    "Year": 2008,
+    "Leading Cause": "Diseases of Heart (I00-I09, I11, I13, I20-I51)",
+    "Sex": "M",
+    "Race Ethnicity": "Hispanic",
+    "Deaths": 1330,
+    "Death Rate": 120.3,
+    "Age Adjusted Death Rate": 228
+  },
+  {
+    "Year": 2008,
+    "Leading Cause": "Diseases of Heart (I00-I09, I11, I13, I20-I51)",
+    "Sex": "M",
+    "Race Ethnicity": "Black Non-Hispanic",
+    "Deaths": 2077,
+    "Death Rate": 244.6,
+    "Age Adjusted Death Rate": 330.2
+  },
+  {
+    "Year": 2008,
+    "Leading Cause": "Diseases of Heart (I00-I09, I11, I13, I20-I51)",
+    "Sex": "M",
+    "Race Ethnicity": "White Non-Hispanic",
+    "Deaths": 5503,
+    "Death Rate": 410,
+    "Age Adjusted Death Rate": 342.3
+  },
+  {
+    "Year": 2008,
+    "Leading Cause": "Diseases of Heart (I00-I09, I11, I13, I20-I51)",
+    "Sex": "F",
+    "Race Ethnicity": "White Non-Hispanic",
+    "Deaths": 6836,
+    "Death Rate": 476.2,
+    "Age Adjusted Death Rate": 245.5
+  },
+  {
+    "Year": 2008,
+    "Leading Cause": "Diseases of Heart (I00-I09, I11, I13, I20-I51)",
+    "Sex": "F",
+    "Race Ethnicity": "Black Non-Hispanic",
+    "Deaths": 2725,
+    "Death Rate": 260.1,
+    "Age Adjusted Death Rate": 243.6
+  },
+  {
+    "Year": 2008,
+    "Leading Cause": "Diseases of Heart (I00-I09, I11, I13, I20-I51)",
+    "Sex": "F",
+    "Race Ethnicity": "Asian and Pacific Islander",
+    "Deaths": 456,
+    "Death Rate": 85.6,
+    "Age Adjusted Death Rate": 117.7
+  },
+  {
+    "Year": 2008,
+    "Leading Cause": "Diseases of Heart (I00-I09, I11, I13, I20-I51)",
+    "Sex": "M",
+    "Race Ethnicity": "Asian and Pacific Islander",
+    "Deaths": 546,
+    "Death Rate": 109.6,
+    "Age Adjusted Death Rate": 166.3
+  },
+  {
+    "Year": 2008,
+    "Leading Cause": "Diseases of Heart (I00-I09, I11, I13, I20-I51)",
+    "Sex": "M",
+    "Race Ethnicity": "Other Race/ Ethnicity",
+    "Deaths": 39,
+    "Death Rate": "N/A",
+    "Age Adjusted Death Rate": "N/A"
+  },
+  {
+    "Year": 2008,
+    "Leading Cause": "Diseases of Heart (I00-I09, I11, I13, I20-I51)",
+    "Sex": "M",
+    "Race Ethnicity": "Not Stated/Unknown",
+    "Deaths": 92,
+    "Death Rate": "N/A",
+    "Age Adjusted Death Rate": "N/A"
+  },
+  {
+    "Year": 2008,
+    "Leading Cause": "Diseases of Heart (I00-I09, I11, I13, I20-I51)",
+    "Sex": "F",
+    "Race Ethnicity": "Not Stated/Unknown",
+    "Deaths": 108,
+    "Death Rate": "N/A",
+    "Age Adjusted Death Rate": "N/A"
+  },
+  {
+    "Year": 2008,
+    "Leading Cause": "Diseases of Heart (I00-I09, I11, I13, I20-I51)",
+    "Sex": "F",
+    "Race Ethnicity": "Hispanic",
+    "Deaths": 1445,
+    "Death Rate": 122.3,
+    "Age Adjusted Death Rate": 160.7
+  },
+  {
+    "Year": 2008,
+    "Leading Cause": "Diseases of Heart (I00-I09, I11, I13, I20-I51)",
+    "Sex": "F",
+    "Race Ethnicity": "Other Race/ Ethnicity",
+    "Deaths": 35,
+    "Death Rate": "N/A",
+    "Age Adjusted Death Rate": "N/A"
+  },
+  {
+    "Year": 2009,
+    "Leading Cause": "Diseases of Heart (I00-I09, I11, I13, I20-I51)",
+    "Sex": "M",
+    "Race Ethnicity": "Hispanic",
+    "Deaths": 1382,
+    "Death Rate": 123.1,
+    "Age Adjusted Death Rate": 227.9
+  },
+  {
+    "Year": 2009,
+    "Leading Cause": "Diseases of Heart (I00-I09, I11, I13, I20-I51)",
+    "Sex": "F",
+    "Race Ethnicity": "Asian and Pacific Islander",
+    "Deaths": 448,
+    "Death Rate": 81.6,
+    "Age Adjusted Death Rate": 108.7
+  },
+  {
+    "Year": 2009,
+    "Leading Cause": "Diseases of Heart (I00-I09, I11, I13, I20-I51)",
+    "Sex": "F",
+    "Race Ethnicity": "Other Race/ Ethnicity",
+    "Deaths": 40,
+    "Death Rate": "N/A",
+    "Age Adjusted Death Rate": "N/A"
+  },
+  {
+    "Year": 2009,
+    "Leading Cause": "Diseases of Heart (I00-I09, I11, I13, I20-I51)",
+    "Sex": "M",
+    "Race Ethnicity": "Other Race/ Ethnicity",
+    "Deaths": 38,
+    "Death Rate": "N/A",
+    "Age Adjusted Death Rate": "N/A"
+  },
+  {
+    "Year": 2009,
+    "Leading Cause": "Diseases of Heart (I00-I09, I11, I13, I20-I51)",
+    "Sex": "M",
+    "Race Ethnicity": "Not Stated/Unknown",
+    "Deaths": 94,
+    "Death Rate": "N/A",
+    "Age Adjusted Death Rate": "N/A"
+  },
+  {
+    "Year": 2009,
+    "Leading Cause": "Diseases of Heart (I00-I09, I11, I13, I20-I51)",
+    "Sex": "M",
+    "Race Ethnicity": "Asian and Pacific Islander",
+    "Deaths": 554,
+    "Death Rate": 108.5,
+    "Age Adjusted Death Rate": 158.8
+  },
+  {
+    "Year": 2009,
+    "Leading Cause": "Diseases of Heart (I00-I09, I11, I13, I20-I51)",
+    "Sex": "M",
+    "Race Ethnicity": "White Non-Hispanic",
+    "Deaths": 5168,
+    "Death Rate": 384.2,
+    "Age Adjusted Death Rate": 319.8
+  },
+  {
+    "Year": 2009,
+    "Leading Cause": "Diseases of Heart (I00-I09, I11, I13, I20-I51)",
+    "Sex": "F",
+    "Race Ethnicity": "Not Stated/Unknown",
+    "Deaths": 111,
+    "Death Rate": "N/A",
+    "Age Adjusted Death Rate": "N/A"
+  },
+  {
+    "Year": 2009,
+    "Leading Cause": "Diseases of Heart (I00-I09, I11, I13, I20-I51)",
+    "Sex": "F",
+    "Race Ethnicity": "Black Non-Hispanic",
+    "Deaths": 2535,
+    "Death Rate": 242.1,
+    "Age Adjusted Death Rate": 220.9
+  },
+  {
+    "Year": 2009,
+    "Leading Cause": "Diseases of Heart (I00-I09, I11, I13, I20-I51)",
+    "Sex": "F",
+    "Race Ethnicity": "Hispanic",
+    "Deaths": 1349,
+    "Death Rate": 112.7,
+    "Age Adjusted Death Rate": 143.8
+  },
+  {
+    "Year": 2009,
+    "Leading Cause": "Diseases of Heart (I00-I09, I11, I13, I20-I51)",
+    "Sex": "M",
+    "Race Ethnicity": "Black Non-Hispanic",
+    "Deaths": 2068,
+    "Death Rate": 243.5,
+    "Age Adjusted Death Rate": 318.9
+  },
+  {
+    "Year": 2009,
+    "Leading Cause": "Diseases of Heart (I00-I09, I11, I13, I20-I51)",
+    "Sex": "F",
+    "Race Ethnicity": "White Non-Hispanic",
+    "Deaths": 6297,
+    "Death Rate": 438.3,
+    "Age Adjusted Death Rate": 226.2
+  },
+  {
+    "Year": 2010,
+    "Leading Cause": "Diseases of Heart (I00-I09, I11, I13, I20-I51)",
+    "Sex": "F",
+    "Race Ethnicity": "White Non-Hispanic",
+    "Deaths": 5351,
+    "Death Rate": 374.2,
+    "Age Adjusted Death Rate": 189.2
+  },
+  {
+    "Year": 2010,
+    "Leading Cause": "Diseases of Heart (I00-I09, I11, I13, I20-I51)",
+    "Sex": "M",
+    "Race Ethnicity": "Black Non-Hispanic",
+    "Deaths": 2015,
+    "Death Rate": 236.7,
+    "Age Adjusted Death Rate": 307.7
+  },
+  {
+    "Year": 2010,
+    "Leading Cause": "Diseases of Heart (I00-I09, I11, I13, I20-I51)",
+    "Sex": "M",
+    "Race Ethnicity": "Asian and Pacific Islander",
+    "Deaths": 478,
+    "Death Rate": 91.8,
+    "Age Adjusted Death Rate": 130
+  },
+  {
+    "Year": 2010,
+    "Leading Cause": "Diseases of Heart (I00-I09, I11, I13, I20-I51)",
+    "Sex": "F",
+    "Race Ethnicity": "Asian and Pacific Islander",
+    "Deaths": 394,
+    "Death Rate": 70.1,
+    "Age Adjusted Death Rate": 89.7
+  },
+  {
+    "Year": 2010,
+    "Leading Cause": "Diseases of Heart (I00-I09, I11, I13, I20-I51)",
+    "Sex": "F",
+    "Race Ethnicity": "Hispanic",
+    "Deaths": 1316,
+    "Death Rate": 108.1,
+    "Age Adjusted Death Rate": 133.2
+  },
+  {
+    "Year": 2010,
+    "Leading Cause": "Diseases of Heart (I00-I09, I11, I13, I20-I51)",
+    "Sex": "F",
+    "Race Ethnicity": "Black Non-Hispanic",
+    "Deaths": 2282,
+    "Death Rate": 217.7,
+    "Age Adjusted Death Rate": 194.2
+  },
+  {
+    "Year": 2010,
+    "Leading Cause": "Diseases of Heart (I00-I09, I11, I13, I20-I51)",
+    "Sex": "M",
+    "Race Ethnicity": "White Non-Hispanic",
+    "Deaths": 4495,
+    "Death Rate": 335.1,
+    "Age Adjusted Death Rate": 277
+  },
+  {
+    "Year": 2010,
+    "Leading Cause": "Diseases of Heart (I00-I09, I11, I13, I20-I51)",
+    "Sex": "M",
+    "Race Ethnicity": "Hispanic",
+    "Deaths": 1354,
+    "Death Rate": 118.5,
+    "Age Adjusted Death Rate": 215.5
+  },
+  {
+    "Year": 2010,
+    "Leading Cause": "Diseases of Heart (I00-I09, I11, I13, I20-I51)",
+    "Sex": "F",
+    "Race Ethnicity": "Not Stated/Unknown",
+    "Deaths": 70,
+    "Death Rate": "N/A",
+    "Age Adjusted Death Rate": "N/A"
+  },
+  {
+    "Year": 2010,
+    "Leading Cause": "Diseases of Heart (I00-I09, I11, I13, I20-I51)",
+    "Sex": "F",
+    "Race Ethnicity": "Other Race/ Ethnicity",
+    "Deaths": 50,
+    "Death Rate": "N/A",
+    "Age Adjusted Death Rate": "N/A"
+  },
+  {
+    "Year": 2010,
+    "Leading Cause": "Diseases of Heart (I00-I09, I11, I13, I20-I51)",
+    "Sex": "M",
+    "Race Ethnicity": "Not Stated/Unknown",
+    "Deaths": 70,
+    "Death Rate": "N/A",
+    "Age Adjusted Death Rate": "N/A"
+  },
+  {
+    "Year": 2010,
+    "Leading Cause": "Diseases of Heart (I00-I09, I11, I13, I20-I51)",
+    "Sex": "M",
+    "Race Ethnicity": "Other Race/ Ethnicity",
+    "Deaths": 52,
+    "Death Rate": "N/A",
+    "Age Adjusted Death Rate": "N/A"
+  },
+  {
+    "Year": 2011,
+    "Leading Cause": "Diseases of Heart (I00-I09, I11, I13, I20-I51)",
+    "Sex": "M",
+    "Race Ethnicity": "Hispanic",
+    "Deaths": 1201,
+    "Death Rate": 104.2,
+    "Age Adjusted Death Rate": 180.8
+  },
+  {
+    "Year": 2011,
+    "Leading Cause": "Diseases of Heart (I00-I09, I11, I13, I20-I51)",
+    "Sex": "M",
+    "Race Ethnicity": "Black Non-Hispanic",
+    "Deaths": 1840,
+    "Death Rate": 215.7,
+    "Age Adjusted Death Rate": 268.3
+  },
+  {
+    "Year": 2011,
+    "Leading Cause": "Diseases of Heart (I00-I09, I11, I13, I20-I51)",
+    "Sex": "F",
+    "Race Ethnicity": "Asian and Pacific Islander",
+    "Deaths": 402,
+    "Death Rate": 70.5,
+    "Age Adjusted Death Rate": 86.1
+  },
+  {
+    "Year": 2011,
+    "Leading Cause": "Diseases of Heart (I00-I09, I11, I13, I20-I51)",
+    "Sex": "F",
+    "Race Ethnicity": "Black Non-Hispanic",
+    "Deaths": 2243,
+    "Death Rate": 214.3,
+    "Age Adjusted Death Rate": 186.7
+  },
+  {
+    "Year": 2011,
+    "Leading Cause": "Diseases of Heart (I00-I09, I11, I13, I20-I51)",
+    "Sex": "F",
+    "Race Ethnicity": "Not Stated/Unknown",
+    "Deaths": 43,
+    "Death Rate": "N/A",
+    "Age Adjusted Death Rate": "N/A"
+  },
+  {
+    "Year": 2011,
+    "Leading Cause": "Diseases of Heart (I00-I09, I11, I13, I20-I51)",
+    "Sex": "F",
+    "Race Ethnicity": "Other Race/ Ethnicity",
+    "Deaths": 31,
+    "Death Rate": "N/A",
+    "Age Adjusted Death Rate": "N/A"
+  },
+  {
+    "Year": 2011,
+    "Leading Cause": "Diseases of Heart (I00-I09, I11, I13, I20-I51)",
+    "Sex": "M",
+    "Race Ethnicity": "Other Race/ Ethnicity",
+    "Deaths": 42,
+    "Death Rate": "N/A",
+    "Age Adjusted Death Rate": "N/A"
+  },
+  {
+    "Year": 2011,
+    "Leading Cause": "Diseases of Heart (I00-I09, I11, I13, I20-I51)",
+    "Sex": "M",
+    "Race Ethnicity": "White Non-Hispanic",
+    "Deaths": 4220,
+    "Death Rate": 316.4,
+    "Age Adjusted Death Rate": 260.2
+  },
+  {
+    "Year": 2011,
+    "Leading Cause": "Diseases of Heart (I00-I09, I11, I13, I20-I51)",
+    "Sex": "F",
+    "Race Ethnicity": "Hispanic",
+    "Deaths": 1348,
+    "Death Rate": 110,
+    "Age Adjusted Death Rate": 131.8
+  },
+  {
+    "Year": 2011,
+    "Leading Cause": "Diseases of Heart (I00-I09, I11, I13, I20-I51)",
+    "Sex": "M",
+    "Race Ethnicity": "Not Stated/Unknown",
+    "Deaths": 62,
+    "Death Rate": "N/A",
+    "Age Adjusted Death Rate": "N/A"
+  },
+  {
+    "Year": 2011,
+    "Leading Cause": "Diseases of Heart (I00-I09, I11, I13, I20-I51)",
+    "Sex": "M",
+    "Race Ethnicity": "Asian and Pacific Islander",
+    "Deaths": 452,
+    "Death Rate": 85.5,
+    "Age Adjusted Death Rate": 117.8
+  },
+  {
+    "Year": 2011,
+    "Leading Cause": "Diseases of Heart (I00-I09, I11, I13, I20-I51)",
+    "Sex": "F",
+    "Race Ethnicity": "White Non-Hispanic",
+    "Deaths": 5016,
+    "Death Rate": 354.1,
+    "Age Adjusted Death Rate": 179.8
+  },
+  {
+    "Year": 2012,
+    "Leading Cause": "Diseases of Heart (I00-I09, I11, I13, I20-I51)",
+    "Sex": "F",
+    "Race Ethnicity": "Asian and Pacific Islander",
+    "Deaths": 402,
+    "Death Rate": 68.8,
+    "Age Adjusted Death Rate": 81.2
+  },
+  {
+    "Year": 2012,
+    "Leading Cause": "Diseases of Heart (I00-I09, I11, I13, I20-I51)",
+    "Sex": "F",
+    "Race Ethnicity": "Hispanic",
+    "Deaths": 1263,
+    "Death Rate": 102,
+    "Age Adjusted Death Rate": 118.4
+  },
+  {
+    "Year": 2012,
+    "Leading Cause": "Diseases of Heart (I00-I09, I11, I13, I20-I51)",
+    "Sex": "M",
+    "Race Ethnicity": "Hispanic",
+    "Deaths": 1251,
+    "Death Rate": 107.1,
+    "Age Adjusted Death Rate": 182.5
+  },
+  {
+    "Year": 2012,
+    "Leading Cause": "Diseases of Heart (I00-I09, I11, I13, I20-I51)",
+    "Sex": "F",
+    "Race Ethnicity": "Not Stated/Unknown",
+    "Deaths": 76,
+    "Death Rate": "N/A",
+    "Age Adjusted Death Rate": "N/A"
+  },
+  {
+    "Year": 2012,
+    "Leading Cause": "Diseases of Heart (I00-I09, I11, I13, I20-I51)",
+    "Sex": "M",
+    "Race Ethnicity": "Other Race/ Ethnicity",
+    "Deaths": 39,
+    "Death Rate": "N/A",
+    "Age Adjusted Death Rate": "N/A"
+  },
+  {
+    "Year": 2012,
+    "Leading Cause": "Diseases of Heart (I00-I09, I11, I13, I20-I51)",
+    "Sex": "F",
+    "Race Ethnicity": "White Non-Hispanic",
+    "Deaths": 4719,
+    "Death Rate": 332.7,
+    "Age Adjusted Death Rate": 167.7
+  },
+  {
+    "Year": 2012,
+    "Leading Cause": "Diseases of Heart (I00-I09, I11, I13, I20-I51)",
+    "Sex": "M",
+    "Race Ethnicity": "Not Stated/Unknown",
+    "Deaths": 99,
+    "Death Rate": "N/A",
+    "Age Adjusted Death Rate": "N/A"
+  },
+  {
+    "Year": 2012,
+    "Leading Cause": "Diseases of Heart (I00-I09, I11, I13, I20-I51)",
+    "Sex": "M",
+    "Race Ethnicity": "Asian and Pacific Islander",
+    "Deaths": 469,
+    "Death Rate": 86.8,
+    "Age Adjusted Death Rate": 116.9
+  },
+  {
+    "Year": 2012,
+    "Leading Cause": "Diseases of Heart (I00-I09, I11, I13, I20-I51)",
+    "Sex": "F",
+    "Race Ethnicity": "Other Race/ Ethnicity",
+    "Deaths": 48,
+    "Death Rate": "N/A",
+    "Age Adjusted Death Rate": "N/A"
+  },
+  {
+    "Year": 2012,
+    "Leading Cause": "Diseases of Heart (I00-I09, I11, I13, I20-I51)",
+    "Sex": "M",
+    "Race Ethnicity": "Black Non-Hispanic",
+    "Deaths": 1940,
+    "Death Rate": 226.8,
+    "Age Adjusted Death Rate": 280.7
+  },
+  {
+    "Year": 2012,
+    "Leading Cause": "Diseases of Heart (I00-I09, I11, I13, I20-I51)",
+    "Sex": "M",
+    "Race Ethnicity": "White Non-Hispanic",
+    "Deaths": 4156,
+    "Death Rate": 310.3,
+    "Age Adjusted Death Rate": 252.4
+  },
+  {
+    "Year": 2012,
+    "Leading Cause": "Diseases of Heart (I00-I09, I11, I13, I20-I51)",
+    "Sex": "F",
+    "Race Ethnicity": "Black Non-Hispanic",
+    "Deaths": 2269,
+    "Death Rate": 217.1,
+    "Age Adjusted Death Rate": 183.9
+  },
+  {
+    "Year": 2013,
+    "Leading Cause": "Diseases of Heart (I00-I09, I11, I13, I20-I51)",
+    "Sex": "F",
+    "Race Ethnicity": "Black Non-Hispanic",
+    "Deaths": 2365,
+    "Death Rate": 226.4,
+    "Age Adjusted Death Rate": 187.3
+  },
+  {
+    "Year": 2013,
+    "Leading Cause": "Diseases of Heart (I00-I09, I11, I13, I20-I51)",
+    "Sex": "F",
+    "Race Ethnicity": "White Non-Hispanic",
+    "Deaths": 4535,
+    "Death Rate": 319,
+    "Age Adjusted Death Rate": 160.6
+  },
+  {
+    "Year": 2013,
+    "Leading Cause": "Diseases of Heart (I00-I09, I11, I13, I20-I51)",
+    "Sex": "M",
+    "Race Ethnicity": "Hispanic",
+    "Deaths": 1307,
+    "Death Rate": 110.7,
+    "Age Adjusted Death Rate": 183.3
+  },
+  {
+    "Year": 2013,
+    "Leading Cause": "Diseases of Heart (I00-I09, I11, I13, I20-I51)",
+    "Sex": "F",
+    "Race Ethnicity": "Asian and Pacific Islander",
+    "Deaths": 437,
+    "Death Rate": 72.8,
+    "Age Adjusted Death Rate": 81.8
+  },
+  {
+    "Year": 2013,
+    "Leading Cause": "Diseases of Heart (I00-I09, I11, I13, I20-I51)",
+    "Sex": "M",
+    "Race Ethnicity": "Black Non-Hispanic",
+    "Deaths": 1868,
+    "Death Rate": 217.7,
+    "Age Adjusted Death Rate": 258.5
+  },
+  {
+    "Year": 2013,
+    "Leading Cause": "Diseases of Heart (I00-I09, I11, I13, I20-I51)",
+    "Sex": "F",
+    "Race Ethnicity": "Other Race/ Ethnicity",
+    "Deaths": 41,
+    "Death Rate": "N/A",
+    "Age Adjusted Death Rate": "N/A"
+  },
+  {
+    "Year": 2013,
+    "Leading Cause": "Diseases of Heart (I00-I09, I11, I13, I20-I51)",
+    "Sex": "F",
+    "Race Ethnicity": "Not Stated/Unknown",
+    "Deaths": 106,
+    "Death Rate": "N/A",
+    "Age Adjusted Death Rate": "N/A"
+  },
+  {
+    "Year": 2013,
+    "Leading Cause": "Diseases of Heart (I00-I09, I11, I13, I20-I51)",
+    "Sex": "M",
+    "Race Ethnicity": "Other Race/ Ethnicity",
+    "Deaths": 72,
+    "Death Rate": "N/A",
+    "Age Adjusted Death Rate": "N/A"
+  },
+  {
+    "Year": 2013,
+    "Leading Cause": "Diseases of Heart (I00-I09, I11, I13, I20-I51)",
+    "Sex": "M",
+    "Race Ethnicity": "Asian and Pacific Islander",
+    "Deaths": 531,
+    "Death Rate": 95.8,
+    "Age Adjusted Death Rate": 123.7
+  },
+  {
+    "Year": 2013,
+    "Leading Cause": "Diseases of Heart (I00-I09, I11, I13, I20-I51)",
+    "Sex": "M",
+    "Race Ethnicity": "White Non-Hispanic",
+    "Deaths": 4085,
+    "Death Rate": 303.5,
+    "Age Adjusted Death Rate": 244.3
+  },
+  {
+    "Year": 2013,
+    "Leading Cause": "Diseases of Heart (I00-I09, I11, I13, I20-I51)",
+    "Sex": "M",
+    "Race Ethnicity": "Not Stated/Unknown",
+    "Deaths": 151,
+    "Death Rate": "N/A",
+    "Age Adjusted Death Rate": "N/A"
+  },
+  {
+    "Year": 2013,
+    "Leading Cause": "Diseases of Heart (I00-I09, I11, I13, I20-I51)",
+    "Sex": "F",
+    "Race Ethnicity": "Hispanic",
+    "Deaths": 1261,
+    "Death Rate": 101,
+    "Age Adjusted Death Rate": 113.6
+  },
+  {
+    "Year": 2014,
+    "Leading Cause": "Diseases of Heart (I00-I09, I11, I13, I20-I51)",
+    "Sex": "M",
+    "Race Ethnicity": "Not Stated/Unknown",
+    "Deaths": 115,
+    "Death Rate": "N/A",
+    "Age Adjusted Death Rate": "N/A"
+  },
+  {
+    "Year": 2014,
+    "Leading Cause": "Diseases of Heart (I00-I09, I11, I13, I20-I51)",
+    "Sex": "M",
+    "Race Ethnicity": "Black Non-Hispanic",
+    "Deaths": 1958,
+    "Death Rate": 226.8,
+    "Age Adjusted Death Rate": 264.7
+  },
+  {
+    "Year": 2014,
+    "Leading Cause": "Diseases of Heart (I00-I09, I11, I13, I20-I51)",
+    "Sex": "M",
+    "Race Ethnicity": "Hispanic",
+    "Deaths": 1281,
+    "Death Rate": 107.3,
+    "Age Adjusted Death Rate": 170.5
+  },
+  {
+    "Year": 2014,
+    "Leading Cause": "Diseases of Heart (I00-I09, I11, I13, I20-I51)",
+    "Sex": "F",
+    "Race Ethnicity": "Asian and Pacific Islander",
+    "Deaths": 462,
+    "Death Rate": 73.8,
+    "Age Adjusted Death Rate": 81.1
+  },
+  {
+    "Year": 2014,
+    "Leading Cause": "Diseases of Heart (I00-I09, I11, I13, I20-I51)",
+    "Sex": "F",
+    "Race Ethnicity": "Not Stated/Unknown",
+    "Deaths": 95,
+    "Death Rate": "N/A",
+    "Age Adjusted Death Rate": "N/A"
+  },
+  {
+    "Year": 2014,
+    "Leading Cause": "Diseases of Heart (I00-I09, I11, I13, I20-I51)",
+    "Sex": "F",
+    "Race Ethnicity": "Other Race/ Ethnicity",
+    "Deaths": 68,
+    "Death Rate": "N/A",
+    "Age Adjusted Death Rate": "N/A"
+  },
+  {
+    "Year": 2014,
+    "Leading Cause": "Diseases of Heart (I00-I09, I11, I13, I20-I51)",
+    "Sex": "F",
+    "Race Ethnicity": "White Non-Hispanic",
+    "Deaths": 4507,
+    "Death Rate": 318,
+    "Age Adjusted Death Rate": 161
+  },
+  {
+    "Year": 2014,
+    "Leading Cause": "Diseases of Heart (I00-I09, I11, I13, I20-I51)",
+    "Sex": "M",
+    "Race Ethnicity": "White Non-Hispanic",
+    "Deaths": 3990,
+    "Death Rate": 297.1,
+    "Age Adjusted Death Rate": 238.4
+  },
+  {
+    "Year": 2014,
+    "Leading Cause": "Diseases of Heart (I00-I09, I11, I13, I20-I51)",
+    "Sex": "F",
+    "Race Ethnicity": "Black Non-Hispanic",
+    "Deaths": 2194,
+    "Death Rate": 209.1,
+    "Age Adjusted Death Rate": 169.1
+  },
+  {
+    "Year": 2014,
+    "Leading Cause": "Diseases of Heart (I00-I09, I11, I13, I20-I51)",
+    "Sex": "M",
+    "Race Ethnicity": "Other Race/ Ethnicity",
+    "Deaths": 63,
+    "Death Rate": "N/A",
+    "Age Adjusted Death Rate": "N/A"
+  },
+  {
+    "Year": 2014,
+    "Leading Cause": "Diseases of Heart (I00-I09, I11, I13, I20-I51)",
+    "Sex": "F",
+    "Race Ethnicity": "Hispanic",
+    "Deaths": 1230,
+    "Death Rate": 97.1,
+    "Age Adjusted Death Rate": 106.7
+  },
+  {
+    "Year": 2014,
+    "Leading Cause": "Diseases of Heart (I00-I09, I11, I13, I20-I51)",
+    "Sex": "M",
+    "Race Ethnicity": "Asian and Pacific Islander",
+    "Deaths": 554,
+    "Death Rate": 96.5,
+    "Age Adjusted Death Rate": 118.5
+  },
+  {
+    "Year": 2007,
+    "Leading Cause": "Influenza (Flu) and Pneumonia (J09-J18)",
+    "Sex": "F",
+    "Race Ethnicity": "Black Non-Hispanic",
+    "Deaths": 295,
+    "Death Rate": 28,
+    "Age Adjusted Death Rate": 26.9
+  },
+  {
+    "Year": 2007,
+    "Leading Cause": "Influenza (Flu) and Pneumonia (J09-J18)",
+    "Sex": "F",
+    "Race Ethnicity": "Hispanic",
+    "Deaths": 190,
+    "Death Rate": 16.3,
+    "Age Adjusted Death Rate": 22.3
+  },
+  {
+    "Year": 2007,
+    "Leading Cause": "Influenza (Flu) and Pneumonia (J09-J18)",
+    "Sex": "M",
+    "Race Ethnicity": "White Non-Hispanic",
+    "Deaths": 530,
+    "Death Rate": 39.6,
+    "Age Adjusted Death Rate": 32.9
+  },
+  {
+    "Year": 2007,
+    "Leading Cause": "Influenza (Flu) and Pneumonia (J09-J18)",
+    "Sex": "F",
+    "Race Ethnicity": "White Non-Hispanic",
+    "Deaths": 659,
+    "Death Rate": 45.9,
+    "Age Adjusted Death Rate": 23.2
+  },
+  {
+    "Year": 2007,
+    "Leading Cause": "Influenza (Flu) and Pneumonia (J09-J18)",
+    "Sex": "M",
+    "Race Ethnicity": "Not Stated/Unknown",
+    "Deaths": 13,
+    "Death Rate": "N/A",
+    "Age Adjusted Death Rate": "N/A"
+  },
+  {
+    "Year": 2007,
+    "Leading Cause": "Influenza (Flu) and Pneumonia (J09-J18)",
+    "Sex": "F",
+    "Race Ethnicity": "Asian and Pacific Islander",
+    "Deaths": 58,
+    "Death Rate": 11.3,
+    "Age Adjusted Death Rate": 15.8
+  },
+  {
+    "Year": 2007,
+    "Leading Cause": "Influenza (Flu) and Pneumonia (J09-J18)",
+    "Sex": "F",
+    "Race Ethnicity": "Other Race/ Ethnicity",
+    "Deaths": "N/A",
+    "Death Rate": "N/A",
+    "Age Adjusted Death Rate": "N/A"
+  },
+  {
+    "Year": 2007,
+    "Leading Cause": "Influenza (Flu) and Pneumonia (J09-J18)",
+    "Sex": "M",
+    "Race Ethnicity": "Black Non-Hispanic",
+    "Deaths": 229,
+    "Death Rate": 26.9,
+    "Age Adjusted Death Rate": 40.1
+  },
+  {
+    "Year": 2007,
+    "Leading Cause": "Influenza (Flu) and Pneumonia (J09-J18)",
+    "Sex": "M",
+    "Race Ethnicity": "Hispanic",
+    "Deaths": 189,
+    "Death Rate": 17.3,
+    "Age Adjusted Death Rate": 36.7
+  },
+  {
+    "Year": 2007,
+    "Leading Cause": "Influenza (Flu) and Pneumonia (J09-J18)",
+    "Sex": "M",
+    "Race Ethnicity": "Asian and Pacific Islander",
+    "Deaths": 66,
+    "Death Rate": 13.6,
+    "Age Adjusted Death Rate": 25.7
+  },
+  {
+    "Year": 2007,
+    "Leading Cause": "Influenza (Flu) and Pneumonia (J09-J18)",
+    "Sex": "M",
+    "Race Ethnicity": "Other Race/ Ethnicity",
+    "Deaths": 7,
+    "Death Rate": "N/A",
+    "Age Adjusted Death Rate": "N/A"
+  },
+  {
+    "Year": 2007,
+    "Leading Cause": "Influenza (Flu) and Pneumonia (J09-J18)",
+    "Sex": "F",
+    "Race Ethnicity": "Not Stated/Unknown",
+    "Deaths": "N/A",
+    "Death Rate": "N/A",
+    "Age Adjusted Death Rate": "N/A"
+  },
+  {
+    "Year": 2008,
+    "Leading Cause": "Influenza (Flu) and Pneumonia (J09-J18)",
+    "Sex": "M",
+    "Race Ethnicity": "Black Non-Hispanic",
+    "Deaths": 222,
+    "Death Rate": 26.1,
+    "Age Adjusted Death Rate": 37.6
+  },
+  {
+    "Year": 2008,
+    "Leading Cause": "Influenza (Flu) and Pneumonia (J09-J18)",
+    "Sex": "M",
+    "Race Ethnicity": "White Non-Hispanic",
+    "Deaths": 529,
+    "Death Rate": 39.4,
+    "Age Adjusted Death Rate": 32.7
+  },
+  {
+    "Year": 2008,
+    "Leading Cause": "Influenza (Flu) and Pneumonia (J09-J18)",
+    "Sex": "F",
+    "Race Ethnicity": "Asian and Pacific Islander",
+    "Deaths": 73,
+    "Death Rate": 13.7,
+    "Age Adjusted Death Rate": 19.1
+  },
+  {
+    "Year": 2008,
+    "Leading Cause": "Influenza (Flu) and Pneumonia (J09-J18)",
+    "Sex": "F",
+    "Race Ethnicity": "White Non-Hispanic",
+    "Deaths": 621,
+    "Death Rate": 43.3,
+    "Age Adjusted Death Rate": 22.2
+  },
+  {
+    "Year": 2008,
+    "Leading Cause": "Influenza (Flu) and Pneumonia (J09-J18)",
+    "Sex": "M",
+    "Race Ethnicity": "Asian and Pacific Islander",
+    "Deaths": 90,
+    "Death Rate": 18.1,
+    "Age Adjusted Death Rate": 30.2
+  },
+  {
+    "Year": 2008,
+    "Leading Cause": "Influenza (Flu) and Pneumonia (J09-J18)",
+    "Sex": "F",
+    "Race Ethnicity": "Other Race/ Ethnicity",
+    "Deaths": "N/A",
+    "Death Rate": "N/A",
+    "Age Adjusted Death Rate": "N/A"
+  },
+  {
+    "Year": 2008,
+    "Leading Cause": "Influenza (Flu) and Pneumonia (J09-J18)",
+    "Sex": "F",
+    "Race Ethnicity": "Black Non-Hispanic",
+    "Deaths": 318,
+    "Death Rate": 30.4,
+    "Age Adjusted Death Rate": 28.6
+  },
+  {
+    "Year": 2008,
+    "Leading Cause": "Influenza (Flu) and Pneumonia (J09-J18)",
+    "Sex": "M",
+    "Race Ethnicity": "Not Stated/Unknown",
+    "Deaths": 11,
+    "Death Rate": "N/A",
+    "Age Adjusted Death Rate": "N/A"
+  },
+  {
+    "Year": 2008,
+    "Leading Cause": "Influenza (Flu) and Pneumonia (J09-J18)",
+    "Sex": "F",
+    "Race Ethnicity": "Not Stated/Unknown",
+    "Deaths": 14,
+    "Death Rate": "N/A",
+    "Age Adjusted Death Rate": "N/A"
+  },
+  {
+    "Year": 2008,
+    "Leading Cause": "Influenza (Flu) and Pneumonia (J09-J18)",
+    "Sex": "M",
+    "Race Ethnicity": "Other Race/ Ethnicity",
+    "Deaths": 5,
+    "Death Rate": "N/A",
+    "Age Adjusted Death Rate": "N/A"
+  },
+  {
+    "Year": 2008,
+    "Leading Cause": "Influenza (Flu) and Pneumonia (J09-J18)",
+    "Sex": "F",
+    "Race Ethnicity": "Hispanic",
+    "Deaths": 227,
+    "Death Rate": 19.2,
+    "Age Adjusted Death Rate": 25.5
+  },
+  {
+    "Year": 2008,
+    "Leading Cause": "Influenza (Flu) and Pneumonia (J09-J18)",
+    "Sex": "M",
+    "Race Ethnicity": "Hispanic",
+    "Deaths": 187,
+    "Death Rate": 16.9,
+    "Age Adjusted Death Rate": 35.5
+  },
+  {
+    "Year": 2009,
+    "Leading Cause": "Influenza (Flu) and Pneumonia (J09-J18)",
+    "Sex": "M",
+    "Race Ethnicity": "Other Race/ Ethnicity",
+    "Deaths": "N/A",
+    "Death Rate": "N/A",
+    "Age Adjusted Death Rate": "N/A"
+  },
+  {
+    "Year": 2009,
+    "Leading Cause": "Influenza (Flu) and Pneumonia (J09-J18)",
+    "Sex": "F",
+    "Race Ethnicity": "Other Race/ Ethnicity",
+    "Deaths": 5,
+    "Death Rate": "N/A",
+    "Age Adjusted Death Rate": "N/A"
+  },
+  {
+    "Year": 2009,
+    "Leading Cause": "Influenza (Flu) and Pneumonia (J09-J18)",
+    "Sex": "M",
+    "Race Ethnicity": "Asian and Pacific Islander",
+    "Deaths": 84,
+    "Death Rate": 16.5,
+    "Age Adjusted Death Rate": 26.1
+  },
+  {
+    "Year": 2009,
+    "Leading Cause": "Influenza (Flu) and Pneumonia (J09-J18)",
+    "Sex": "F",
+    "Race Ethnicity": "Asian and Pacific Islander",
+    "Deaths": 83,
+    "Death Rate": 15.1,
+    "Age Adjusted Death Rate": 20.3
+  },
+  {
+    "Year": 2009,
+    "Leading Cause": "Influenza (Flu) and Pneumonia (J09-J18)",
+    "Sex": "F",
+    "Race Ethnicity": "Not Stated/Unknown",
+    "Deaths": 17,
+    "Death Rate": "N/A",
+    "Age Adjusted Death Rate": "N/A"
+  },
+  {
+    "Year": 2009,
+    "Leading Cause": "Influenza (Flu) and Pneumonia (J09-J18)",
+    "Sex": "M",
+    "Race Ethnicity": "Hispanic",
+    "Deaths": 183,
+    "Death Rate": 16.3,
+    "Age Adjusted Death Rate": 30.9
+  },
+  {
+    "Year": 2009,
+    "Leading Cause": "Influenza (Flu) and Pneumonia (J09-J18)",
+    "Sex": "F",
+    "Race Ethnicity": "Black Non-Hispanic",
+    "Deaths": 281,
+    "Death Rate": 26.8,
+    "Age Adjusted Death Rate": 24.5
+  },
+  {
+    "Year": 2009,
+    "Leading Cause": "Influenza (Flu) and Pneumonia (J09-J18)",
+    "Sex": "M",
+    "Race Ethnicity": "White Non-Hispanic",
+    "Deaths": 555,
+    "Death Rate": 41.3,
+    "Age Adjusted Death Rate": 34.3
+  },
+  {
+    "Year": 2009,
+    "Leading Cause": "Influenza (Flu) and Pneumonia (J09-J18)",
+    "Sex": "M",
+    "Race Ethnicity": "Black Non-Hispanic",
+    "Deaths": 207,
+    "Death Rate": 24.4,
+    "Age Adjusted Death Rate": 33.3
+  },
+  {
+    "Year": 2009,
+    "Leading Cause": "Influenza (Flu) and Pneumonia (J09-J18)",
+    "Sex": "M",
+    "Race Ethnicity": "Not Stated/Unknown",
+    "Deaths": 14,
+    "Death Rate": "N/A",
+    "Age Adjusted Death Rate": "N/A"
+  },
+  {
+    "Year": 2009,
+    "Leading Cause": "Influenza (Flu) and Pneumonia (J09-J18)",
+    "Sex": "F",
+    "Race Ethnicity": "Hispanic",
+    "Deaths": 216,
+    "Death Rate": 18,
+    "Age Adjusted Death Rate": 22.8
+  },
+  {
+    "Year": 2009,
+    "Leading Cause": "Influenza (Flu) and Pneumonia (J09-J18)",
+    "Sex": "F",
+    "Race Ethnicity": "White Non-Hispanic",
+    "Deaths": 629,
+    "Death Rate": 43.8,
+    "Age Adjusted Death Rate": 23.1
+  },
+  {
+    "Year": 2010,
+    "Leading Cause": "Influenza (Flu) and Pneumonia (J09-J18)",
+    "Sex": "F",
+    "Race Ethnicity": "Other Race/ Ethnicity",
+    "Deaths": "N/A",
+    "Death Rate": "N/A",
+    "Age Adjusted Death Rate": "N/A"
+  },
+  {
+    "Year": 2010,
+    "Leading Cause": "Influenza (Flu) and Pneumonia (J09-J18)",
+    "Sex": "F",
+    "Race Ethnicity": "Black Non-Hispanic",
+    "Deaths": 275,
+    "Death Rate": 26.2,
+    "Age Adjusted Death Rate": 23.6
+  },
+  {
+    "Year": 2010,
+    "Leading Cause": "Influenza (Flu) and Pneumonia (J09-J18)",
+    "Sex": "M",
+    "Race Ethnicity": "Not Stated/Unknown",
+    "Deaths": "N/A",
+    "Death Rate": "N/A",
+    "Age Adjusted Death Rate": "N/A"
+  },
+  {
+    "Year": 2010,
+    "Leading Cause": "Influenza (Flu) and Pneumonia (J09-J18)",
+    "Sex": "M",
+    "Race Ethnicity": "Asian and Pacific Islander",
+    "Deaths": 108,
+    "Death Rate": 20.7,
+    "Age Adjusted Death Rate": 31.7
+  },
+  {
+    "Year": 2010,
+    "Leading Cause": "Influenza (Flu) and Pneumonia (J09-J18)",
+    "Sex": "M",
+    "Race Ethnicity": "White Non-Hispanic",
+    "Deaths": 614,
+    "Death Rate": 45.8,
+    "Age Adjusted Death Rate": 37.6
+  },
+  {
+    "Year": 2010,
+    "Leading Cause": "Influenza (Flu) and Pneumonia (J09-J18)",
+    "Sex": "F",
+    "Race Ethnicity": "Hispanic",
+    "Deaths": 228,
+    "Death Rate": 18.7,
+    "Age Adjusted Death Rate": 23.1
+  },
+  {
+    "Year": 2010,
+    "Leading Cause": "Influenza (Flu) and Pneumonia (J09-J18)",
+    "Sex": "F",
+    "Race Ethnicity": "Asian and Pacific Islander",
+    "Deaths": 74,
+    "Death Rate": 13.2,
+    "Age Adjusted Death Rate": 16.9
+  },
+  {
+    "Year": 2010,
+    "Leading Cause": "Influenza (Flu) and Pneumonia (J09-J18)",
+    "Sex": "F",
+    "Race Ethnicity": "Not Stated/Unknown",
+    "Deaths": "N/A",
+    "Death Rate": "N/A",
+    "Age Adjusted Death Rate": "N/A"
+  },
+  {
+    "Year": 2010,
+    "Leading Cause": "Influenza (Flu) and Pneumonia (J09-J18)",
+    "Sex": "M",
+    "Race Ethnicity": "Black Non-Hispanic",
+    "Deaths": 201,
+    "Death Rate": 23.6,
+    "Age Adjusted Death Rate": 31.8
+  },
+  {
+    "Year": 2010,
+    "Leading Cause": "Influenza (Flu) and Pneumonia (J09-J18)",
+    "Sex": "F",
+    "Race Ethnicity": "White Non-Hispanic",
+    "Deaths": 707,
+    "Death Rate": 49.4,
+    "Age Adjusted Death Rate": 24.8
+  },
+  {
+    "Year": 2010,
+    "Leading Cause": "Influenza (Flu) and Pneumonia (J09-J18)",
+    "Sex": "M",
+    "Race Ethnicity": "Other Race/ Ethnicity",
+    "Deaths": 6,
+    "Death Rate": "N/A",
+    "Age Adjusted Death Rate": "N/A"
+  },
+  {
+    "Year": 2010,
+    "Leading Cause": "Influenza (Flu) and Pneumonia (J09-J18)",
+    "Sex": "M",
+    "Race Ethnicity": "Hispanic",
+    "Deaths": 235,
+    "Death Rate": 20.6,
+    "Age Adjusted Death Rate": 38.9
+  },
+  {
+    "Year": 2011,
+    "Leading Cause": "Influenza (Flu) and Pneumonia (J09-J18)",
+    "Sex": "F",
+    "Race Ethnicity": "Asian and Pacific Islander",
+    "Deaths": 83,
+    "Death Rate": 14.5,
+    "Age Adjusted Death Rate": 17.8
+  },
+  {
+    "Year": 2011,
+    "Leading Cause": "Influenza (Flu) and Pneumonia (J09-J18)",
+    "Sex": "F",
+    "Race Ethnicity": "Hispanic",
+    "Deaths": 218,
+    "Death Rate": 17.8,
+    "Age Adjusted Death Rate": 21.5
+  },
+  {
+    "Year": 2011,
+    "Leading Cause": "Influenza (Flu) and Pneumonia (J09-J18)",
+    "Sex": "M",
+    "Race Ethnicity": "Black Non-Hispanic",
+    "Deaths": 243,
+    "Death Rate": 28.5,
+    "Age Adjusted Death Rate": 38
+  },
+  {
+    "Year": 2011,
+    "Leading Cause": "Influenza (Flu) and Pneumonia (J09-J18)",
+    "Sex": "M",
+    "Race Ethnicity": "Other Race/ Ethnicity",
+    "Deaths": 7,
+    "Death Rate": "N/A",
+    "Age Adjusted Death Rate": "N/A"
+  },
+  {
+    "Year": 2011,
+    "Leading Cause": "Influenza (Flu) and Pneumonia (J09-J18)",
+    "Sex": "F",
+    "Race Ethnicity": "Not Stated/Unknown",
+    "Deaths": 8,
+    "Death Rate": "N/A",
+    "Age Adjusted Death Rate": "N/A"
+  },
+  {
+    "Year": 2011,
+    "Leading Cause": "Influenza (Flu) and Pneumonia (J09-J18)",
+    "Sex": "M",
+    "Race Ethnicity": "White Non-Hispanic",
+    "Deaths": 646,
+    "Death Rate": 48.4,
+    "Age Adjusted Death Rate": 39.3
+  },
+  {
+    "Year": 2011,
+    "Leading Cause": "Influenza (Flu) and Pneumonia (J09-J18)",
+    "Sex": "M",
+    "Race Ethnicity": "Hispanic",
+    "Deaths": 209,
+    "Death Rate": 18.1,
+    "Age Adjusted Death Rate": 34.4
+  },
+  {
+    "Year": 2011,
+    "Leading Cause": "Influenza (Flu) and Pneumonia (J09-J18)",
+    "Sex": "M",
+    "Race Ethnicity": "Asian and Pacific Islander",
+    "Deaths": 94,
+    "Death Rate": 17.8,
+    "Age Adjusted Death Rate": 28.7
+  },
+  {
+    "Year": 2011,
+    "Leading Cause": "Influenza (Flu) and Pneumonia (J09-J18)",
+    "Sex": "F",
+    "Race Ethnicity": "Black Non-Hispanic",
+    "Deaths": 273,
+    "Death Rate": 26.1,
+    "Age Adjusted Death Rate": 22.8
+  },
+  {
+    "Year": 2011,
+    "Leading Cause": "Influenza (Flu) and Pneumonia (J09-J18)",
+    "Sex": "M",
+    "Race Ethnicity": "Not Stated/Unknown",
+    "Deaths": 8,
+    "Death Rate": "N/A",
+    "Age Adjusted Death Rate": "N/A"
+  },
+  {
+    "Year": 2011,
+    "Leading Cause": "Influenza (Flu) and Pneumonia (J09-J18)",
+    "Sex": "F",
+    "Race Ethnicity": "White Non-Hispanic",
+    "Deaths": 696,
+    "Death Rate": 49.1,
+    "Age Adjusted Death Rate": 25.4
+  },
+  {
+    "Year": 2011,
+    "Leading Cause": "Influenza (Flu) and Pneumonia (J09-J18)",
+    "Sex": "F",
+    "Race Ethnicity": "Other Race/ Ethnicity",
+    "Deaths": 6,
+    "Death Rate": "N/A",
+    "Age Adjusted Death Rate": "N/A"
+  },
+  {
+    "Year": 2012,
+    "Leading Cause": "Influenza (Flu) and Pneumonia (J09-J18)",
+    "Sex": "M",
+    "Race Ethnicity": "Black Non-Hispanic",
+    "Deaths": 242,
+    "Death Rate": 28.3,
+    "Age Adjusted Death Rate": 37.4
+  },
+  {
+    "Year": 2012,
+    "Leading Cause": "Influenza (Flu) and Pneumonia (J09-J18)",
+    "Sex": "F",
+    "Race Ethnicity": "Hispanic",
+    "Deaths": 209,
+    "Death Rate": 16.9,
+    "Age Adjusted Death Rate": 19.6
+  },
+  {
+    "Year": 2012,
+    "Leading Cause": "Influenza (Flu) and Pneumonia (J09-J18)",
+    "Sex": "M",
+    "Race Ethnicity": "Hispanic",
+    "Deaths": 205,
+    "Death Rate": 17.5,
+    "Age Adjusted Death Rate": 31.5
+  },
+  {
+    "Year": 2012,
+    "Leading Cause": "Influenza (Flu) and Pneumonia (J09-J18)",
+    "Sex": "F",
+    "Race Ethnicity": "Asian and Pacific Islander",
+    "Deaths": 74,
+    "Death Rate": 12.7,
+    "Age Adjusted Death Rate": 15.1
+  },
+  {
+    "Year": 2012,
+    "Leading Cause": "Influenza (Flu) and Pneumonia (J09-J18)",
+    "Sex": "F",
+    "Race Ethnicity": "Not Stated/Unknown",
+    "Deaths": 6,
+    "Death Rate": "N/A",
+    "Age Adjusted Death Rate": "N/A"
+  },
+  {
+    "Year": 2012,
+    "Leading Cause": "Influenza (Flu) and Pneumonia (J09-J18)",
+    "Sex": "M",
+    "Race Ethnicity": "White Non-Hispanic",
+    "Deaths": 540,
+    "Death Rate": 40.3,
+    "Age Adjusted Death Rate": 32.3
+  },
+  {
+    "Year": 2012,
+    "Leading Cause": "Influenza (Flu) and Pneumonia (J09-J18)",
+    "Sex": "F",
+    "Race Ethnicity": "Black Non-Hispanic",
+    "Deaths": 295,
+    "Death Rate": 28.2,
+    "Age Adjusted Death Rate": 24.1
+  },
+  {
+    "Year": 2012,
+    "Leading Cause": "Influenza (Flu) and Pneumonia (J09-J18)",
+    "Sex": "M",
+    "Race Ethnicity": "Other Race/ Ethnicity",
+    "Deaths": "N/A",
+    "Death Rate": "N/A",
+    "Age Adjusted Death Rate": "N/A"
+  },
+  {
+    "Year": 2012,
+    "Leading Cause": "Influenza (Flu) and Pneumonia (J09-J18)",
+    "Sex": "F",
+    "Race Ethnicity": "White Non-Hispanic",
+    "Deaths": 576,
+    "Death Rate": 40.6,
+    "Age Adjusted Death Rate": 20.2
+  },
+  {
+    "Year": 2012,
+    "Leading Cause": "Influenza (Flu) and Pneumonia (J09-J18)",
+    "Sex": "M",
+    "Race Ethnicity": "Not Stated/Unknown",
+    "Deaths": 11,
+    "Death Rate": "N/A",
+    "Age Adjusted Death Rate": "N/A"
+  },
+  {
+    "Year": 2012,
+    "Leading Cause": "Influenza (Flu) and Pneumonia (J09-J18)",
+    "Sex": "F",
+    "Race Ethnicity": "Other Race/ Ethnicity",
+    "Deaths": 6,
+    "Death Rate": "N/A",
+    "Age Adjusted Death Rate": "N/A"
+  },
+  {
+    "Year": 2012,
+    "Leading Cause": "Influenza (Flu) and Pneumonia (J09-J18)",
+    "Sex": "M",
+    "Race Ethnicity": "Asian and Pacific Islander",
+    "Deaths": 76,
+    "Death Rate": 14.1,
+    "Age Adjusted Death Rate": 20.9
+  },
+  {
+    "Year": 2013,
+    "Leading Cause": "Influenza (Flu) and Pneumonia (J09-J18)",
+    "Sex": "M",
+    "Race Ethnicity": "Other Race/ Ethnicity",
+    "Deaths": 8,
+    "Death Rate": "N/A",
+    "Age Adjusted Death Rate": "N/A"
+  },
+  {
+    "Year": 2013,
+    "Leading Cause": "Influenza (Flu) and Pneumonia (J09-J18)",
+    "Sex": "F",
+    "Race Ethnicity": "Not Stated/Unknown",
+    "Deaths": 18,
+    "Death Rate": "N/A",
+    "Age Adjusted Death Rate": "N/A"
+  },
+  {
+    "Year": 2013,
+    "Leading Cause": "Influenza (Flu) and Pneumonia (J09-J18)",
+    "Sex": "F",
+    "Race Ethnicity": "White Non-Hispanic",
+    "Deaths": 622,
+    "Death Rate": 43.7,
+    "Age Adjusted Death Rate": 22.1
+  },
+  {
+    "Year": 2013,
+    "Leading Cause": "Influenza (Flu) and Pneumonia (J09-J18)",
+    "Sex": "M",
+    "Race Ethnicity": "Black Non-Hispanic",
+    "Deaths": 274,
+    "Death Rate": 31.9,
+    "Age Adjusted Death Rate": 40
+  },
+  {
+    "Year": 2013,
+    "Leading Cause": "Influenza (Flu) and Pneumonia (J09-J18)",
+    "Sex": "M",
+    "Race Ethnicity": "Asian and Pacific Islander",
+    "Deaths": 102,
+    "Death Rate": 18.4,
+    "Age Adjusted Death Rate": 26.8
+  },
+  {
+    "Year": 2013,
+    "Leading Cause": "Influenza (Flu) and Pneumonia (J09-J18)",
+    "Sex": "F",
+    "Race Ethnicity": "Black Non-Hispanic",
+    "Deaths": 285,
+    "Death Rate": 27.3,
+    "Age Adjusted Death Rate": 22.5
+  },
+  {
+    "Year": 2013,
+    "Leading Cause": "Influenza (Flu) and Pneumonia (J09-J18)",
+    "Sex": "F",
+    "Race Ethnicity": "Other Race/ Ethnicity",
+    "Deaths": 6,
+    "Death Rate": "N/A",
+    "Age Adjusted Death Rate": "N/A"
+  },
+  {
+    "Year": 2013,
+    "Leading Cause": "Influenza (Flu) and Pneumonia (J09-J18)",
+    "Sex": "M",
+    "Race Ethnicity": "Hispanic",
+    "Deaths": 233,
+    "Death Rate": 19.7,
+    "Age Adjusted Death Rate": 33.1
+  },
+  {
+    "Year": 2013,
+    "Leading Cause": "Influenza (Flu) and Pneumonia (J09-J18)",
+    "Sex": "F",
+    "Race Ethnicity": "Asian and Pacific Islander",
+    "Deaths": 78,
+    "Death Rate": 13,
+    "Age Adjusted Death Rate": 14.6
+  },
+  {
+    "Year": 2013,
+    "Leading Cause": "Influenza (Flu) and Pneumonia (J09-J18)",
+    "Sex": "M",
+    "Race Ethnicity": "White Non-Hispanic",
+    "Deaths": 618,
+    "Death Rate": 45.9,
+    "Age Adjusted Death Rate": 36.7
+  },
+  {
+    "Year": 2013,
+    "Leading Cause": "Influenza (Flu) and Pneumonia (J09-J18)",
+    "Sex": "F",
+    "Race Ethnicity": "Hispanic",
+    "Deaths": 204,
+    "Death Rate": 16.3,
+    "Age Adjusted Death Rate": 18.5
+  },
+  {
+    "Year": 2013,
+    "Leading Cause": "Influenza (Flu) and Pneumonia (J09-J18)",
+    "Sex": "M",
+    "Race Ethnicity": "Not Stated/Unknown",
+    "Deaths": 24,
+    "Death Rate": "N/A",
+    "Age Adjusted Death Rate": "N/A"
+  },
+  {
+    "Year": 2014,
+    "Leading Cause": "Influenza (Flu) and Pneumonia (J09-J18)",
+    "Sex": "M",
+    "Race Ethnicity": "Asian and Pacific Islander",
+    "Deaths": 105,
+    "Death Rate": 18.3,
+    "Age Adjusted Death Rate": 25
+  },
+  {
+    "Year": 2014,
+    "Leading Cause": "Influenza (Flu) and Pneumonia (J09-J18)",
+    "Sex": "F",
+    "Race Ethnicity": "White Non-Hispanic",
+    "Deaths": 563,
+    "Death Rate": 39.7,
+    "Age Adjusted Death Rate": 20.4
+  },
+  {
+    "Year": 2014,
+    "Leading Cause": "Influenza (Flu) and Pneumonia (J09-J18)",
+    "Sex": "M",
+    "Race Ethnicity": "Not Stated/Unknown",
+    "Deaths": 14,
+    "Death Rate": "N/A",
+    "Age Adjusted Death Rate": "N/A"
+  },
+  {
+    "Year": 2014,
+    "Leading Cause": "Influenza (Flu) and Pneumonia (J09-J18)",
+    "Sex": "M",
+    "Race Ethnicity": "White Non-Hispanic",
+    "Deaths": 502,
+    "Death Rate": 37.4,
+    "Age Adjusted Death Rate": 29.7
+  },
+  {
+    "Year": 2014,
+    "Leading Cause": "Influenza (Flu) and Pneumonia (J09-J18)",
+    "Sex": "F",
+    "Race Ethnicity": "Other Race/ Ethnicity",
+    "Deaths": 9,
+    "Death Rate": "N/A",
+    "Age Adjusted Death Rate": "N/A"
+  },
+  {
+    "Year": 2014,
+    "Leading Cause": "Influenza (Flu) and Pneumonia (J09-J18)",
+    "Sex": "F",
+    "Race Ethnicity": "Not Stated/Unknown",
+    "Deaths": 11,
+    "Death Rate": "N/A",
+    "Age Adjusted Death Rate": "N/A"
+  },
+  {
+    "Year": 2014,
+    "Leading Cause": "Influenza (Flu) and Pneumonia (J09-J18)",
+    "Sex": "F",
+    "Race Ethnicity": "Asian and Pacific Islander",
+    "Deaths": 80,
+    "Death Rate": 12.8,
+    "Age Adjusted Death Rate": 14.1
+  },
+  {
+    "Year": 2014,
+    "Leading Cause": "Influenza (Flu) and Pneumonia (J09-J18)",
+    "Sex": "F",
+    "Race Ethnicity": "Black Non-Hispanic",
+    "Deaths": 266,
+    "Death Rate": 25.3,
+    "Age Adjusted Death Rate": 20.6
+  },
+  {
+    "Year": 2014,
+    "Leading Cause": "Influenza (Flu) and Pneumonia (J09-J18)",
+    "Sex": "F",
+    "Race Ethnicity": "Hispanic",
+    "Deaths": 218,
+    "Death Rate": 17.2,
+    "Age Adjusted Death Rate": 18.8
+  },
+  {
+    "Year": 2014,
+    "Leading Cause": "Influenza (Flu) and Pneumonia (J09-J18)",
+    "Sex": "M",
+    "Race Ethnicity": "Black Non-Hispanic",
+    "Deaths": 242,
+    "Death Rate": 28,
+    "Age Adjusted Death Rate": 33.9
+  },
+  {
+    "Year": 2014,
+    "Leading Cause": "Influenza (Flu) and Pneumonia (J09-J18)",
+    "Sex": "M",
+    "Race Ethnicity": "Other Race/ Ethnicity",
+    "Deaths": 11,
+    "Death Rate": "N/A",
+    "Age Adjusted Death Rate": "N/A"
+  },
+  {
+    "Year": 2014,
+    "Leading Cause": "Influenza (Flu) and Pneumonia (J09-J18)",
+    "Sex": "M",
+    "Race Ethnicity": "Hispanic",
+    "Deaths": 199,
+    "Death Rate": 16.7,
+    "Age Adjusted Death Rate": 26.6
+  },
+  {
+    "Year": 2007,
+    "Leading Cause": "Malignant Neoplasms (Cancer: C00-C97)",
+    "Sex": "M",
+    "Race Ethnicity": "Not Stated/Unknown",
+    "Deaths": 45,
+    "Death Rate": "N/A",
+    "Age Adjusted Death Rate": "N/A"
+  },
+  {
+    "Year": 2007,
+    "Leading Cause": "Malignant Neoplasms (Cancer: C00-C97)",
+    "Sex": "M",
+    "Race Ethnicity": "White Non-Hispanic",
+    "Deaths": 3356,
+    "Death Rate": 250.9,
+    "Age Adjusted Death Rate": 213.7
+  },
+  {
+    "Year": 2007,
+    "Leading Cause": "Malignant Neoplasms (Cancer: C00-C97)",
+    "Sex": "F",
+    "Race Ethnicity": "Other Race/ Ethnicity",
+    "Deaths": 22,
+    "Death Rate": "N/A",
+    "Age Adjusted Death Rate": "N/A"
+  },
+  {
+    "Year": 2007,
+    "Leading Cause": "Malignant Neoplasms (Cancer: C00-C97)",
+    "Sex": "F",
+    "Race Ethnicity": "Hispanic",
+    "Deaths": 969,
+    "Death Rate": 83,
+    "Age Adjusted Death Rate": 100.7
+  },
+  {
+    "Year": 2007,
+    "Leading Cause": "Malignant Neoplasms (Cancer: C00-C97)",
+    "Sex": "F",
+    "Race Ethnicity": "Black Non-Hispanic",
+    "Deaths": 1800,
+    "Death Rate": 171,
+    "Age Adjusted Death Rate": 161.7
+  },
+  {
+    "Year": 2007,
+    "Leading Cause": "Malignant Neoplasms (Cancer: C00-C97)",
+    "Sex": "F",
+    "Race Ethnicity": "White Non-Hispanic",
+    "Deaths": 3518,
+    "Death Rate": 245.2,
+    "Age Adjusted Death Rate": 167.4
+  },
+  {
+    "Year": 2007,
+    "Leading Cause": "Malignant Neoplasms (Cancer: C00-C97)",
+    "Sex": "M",
+    "Race Ethnicity": "Other Race/ Ethnicity",
+    "Deaths": 29,
+    "Death Rate": "N/A",
+    "Age Adjusted Death Rate": "N/A"
+  },
+  {
+    "Year": 2007,
+    "Leading Cause": "Malignant Neoplasms (Cancer: C00-C97)",
+    "Sex": "F",
+    "Race Ethnicity": "Asian and Pacific Islander",
+    "Deaths": 395,
+    "Death Rate": 76.7,
+    "Age Adjusted Death Rate": 88.4
+  },
+  {
+    "Year": 2007,
+    "Leading Cause": "Malignant Neoplasms (Cancer: C00-C97)",
+    "Sex": "F",
+    "Race Ethnicity": "Not Stated/Unknown",
+    "Deaths": 51,
+    "Death Rate": "N/A",
+    "Age Adjusted Death Rate": "N/A"
+  },
+  {
+    "Year": 2007,
+    "Leading Cause": "Malignant Neoplasms (Cancer: C00-C97)",
+    "Sex": "M",
+    "Race Ethnicity": "Asian and Pacific Islander",
+    "Deaths": 528,
+    "Death Rate": 109.1,
+    "Age Adjusted Death Rate": 145.9
+  },
+  {
+    "Year": 2007,
+    "Leading Cause": "Malignant Neoplasms (Cancer: C00-C97)",
+    "Sex": "M",
+    "Race Ethnicity": "Black Non-Hispanic",
+    "Deaths": 1523,
+    "Death Rate": 178.7,
+    "Age Adjusted Death Rate": 229.4
+  },
+  {
+    "Year": 2007,
+    "Leading Cause": "Malignant Neoplasms (Cancer: C00-C97)",
+    "Sex": "M",
+    "Race Ethnicity": "Hispanic",
+    "Deaths": 1013,
+    "Death Rate": 92.9,
+    "Age Adjusted Death Rate": 163.5
+  },
+  {
+    "Year": 2008,
+    "Leading Cause": "Malignant Neoplasms (Cancer: C00-C97)",
+    "Sex": "M",
+    "Race Ethnicity": "Not Stated/Unknown",
+    "Deaths": 60,
+    "Death Rate": "N/A",
+    "Age Adjusted Death Rate": "N/A"
+  },
+  {
+    "Year": 2008,
+    "Leading Cause": "Malignant Neoplasms (Cancer: C00-C97)",
+    "Sex": "F",
+    "Race Ethnicity": "Not Stated/Unknown",
+    "Deaths": 36,
+    "Death Rate": "N/A",
+    "Age Adjusted Death Rate": "N/A"
+  },
+  {
+    "Year": 2008,
+    "Leading Cause": "Malignant Neoplasms (Cancer: C00-C97)",
+    "Sex": "M",
+    "Race Ethnicity": "Asian and Pacific Islander",
+    "Deaths": 473,
+    "Death Rate": 95,
+    "Age Adjusted Death Rate": 123.5
+  },
+  {
+    "Year": 2008,
+    "Leading Cause": "Malignant Neoplasms (Cancer: C00-C97)",
+    "Sex": "F",
+    "Race Ethnicity": "Hispanic",
+    "Deaths": 1046,
+    "Death Rate": 88.5,
+    "Age Adjusted Death Rate": 104.7
+  },
+  {
+    "Year": 2008,
+    "Leading Cause": "Malignant Neoplasms (Cancer: C00-C97)",
+    "Sex": "M",
+    "Race Ethnicity": "Other Race/ Ethnicity",
+    "Deaths": 33,
+    "Death Rate": "N/A",
+    "Age Adjusted Death Rate": "N/A"
+  },
+  {
+    "Year": 2008,
+    "Leading Cause": "Malignant Neoplasms (Cancer: C00-C97)",
+    "Sex": "F",
+    "Race Ethnicity": "Black Non-Hispanic",
+    "Deaths": 1756,
+    "Death Rate": 167.6,
+    "Age Adjusted Death Rate": 156.3
+  },
+  {
+    "Year": 2008,
+    "Leading Cause": "Malignant Neoplasms (Cancer: C00-C97)",
+    "Sex": "M",
+    "Race Ethnicity": "White Non-Hispanic",
+    "Deaths": 3361,
+    "Death Rate": 250.4,
+    "Age Adjusted Death Rate": 214.3
+  },
+  {
+    "Year": 2008,
+    "Leading Cause": "Malignant Neoplasms (Cancer: C00-C97)",
+    "Sex": "F",
+    "Race Ethnicity": "Asian and Pacific Islander",
+    "Deaths": 344,
+    "Death Rate": 64.6,
+    "Age Adjusted Death Rate": 73.8
+  },
+  {
+    "Year": 2008,
+    "Leading Cause": "Malignant Neoplasms (Cancer: C00-C97)",
+    "Sex": "F",
+    "Race Ethnicity": "Other Race/ Ethnicity",
+    "Deaths": 21,
+    "Death Rate": "N/A",
+    "Age Adjusted Death Rate": "N/A"
+  },
+  {
+    "Year": 2008,
+    "Leading Cause": "Malignant Neoplasms (Cancer: C00-C97)",
+    "Sex": "M",
+    "Race Ethnicity": "Hispanic",
+    "Deaths": 1080,
+    "Death Rate": 97.7,
+    "Age Adjusted Death Rate": 165.9
+  },
+  {
+    "Year": 2008,
+    "Leading Cause": "Malignant Neoplasms (Cancer: C00-C97)",
+    "Sex": "M",
+    "Race Ethnicity": "Black Non-Hispanic",
+    "Deaths": 1464,
+    "Death Rate": 172.4,
+    "Age Adjusted Death Rate": 220.4
+  },
+  {
+    "Year": 2008,
+    "Leading Cause": "Malignant Neoplasms (Cancer: C00-C97)",
+    "Sex": "F",
+    "Race Ethnicity": "White Non-Hispanic",
+    "Deaths": 3366,
+    "Death Rate": 234.5,
+    "Age Adjusted Death Rate": 160.5
+  },
+  {
+    "Year": 2009,
+    "Leading Cause": "Malignant Neoplasms (Cancer: C00-C97)",
+    "Sex": "M",
+    "Race Ethnicity": "Asian and Pacific Islander",
+    "Deaths": 506,
+    "Death Rate": 99.1,
+    "Age Adjusted Death Rate": 127
+  },
+  {
+    "Year": 2009,
+    "Leading Cause": "Malignant Neoplasms (Cancer: C00-C97)",
+    "Sex": "M",
+    "Race Ethnicity": "Hispanic",
+    "Deaths": 1180,
+    "Death Rate": 105.1,
+    "Age Adjusted Death Rate": 172.2
+  },
+  {
+    "Year": 2009,
+    "Leading Cause": "Malignant Neoplasms (Cancer: C00-C97)",
+    "Sex": "F",
+    "Race Ethnicity": "White Non-Hispanic",
+    "Deaths": 3346,
+    "Death Rate": 232.9,
+    "Age Adjusted Death Rate": 159
+  },
+  {
+    "Year": 2009,
+    "Leading Cause": "Malignant Neoplasms (Cancer: C00-C97)",
+    "Sex": "F",
+    "Race Ethnicity": "Hispanic",
+    "Deaths": 1097,
+    "Death Rate": 91.6,
+    "Age Adjusted Death Rate": 107.2
+  },
+  {
+    "Year": 2009,
+    "Leading Cause": "Malignant Neoplasms (Cancer: C00-C97)",
+    "Sex": "M",
+    "Race Ethnicity": "White Non-Hispanic",
+    "Deaths": 3236,
+    "Death Rate": 240.5,
+    "Age Adjusted Death Rate": 205.6
+  },
+  {
+    "Year": 2009,
+    "Leading Cause": "Malignant Neoplasms (Cancer: C00-C97)",
+    "Sex": "M",
+    "Race Ethnicity": "Black Non-Hispanic",
+    "Deaths": 1557,
+    "Death Rate": 183.4,
+    "Age Adjusted Death Rate": 228.8
+  },
+  {
+    "Year": 2009,
+    "Leading Cause": "Malignant Neoplasms (Cancer: C00-C97)",
+    "Sex": "F",
+    "Race Ethnicity": "Other Race/ Ethnicity",
+    "Deaths": 19,
+    "Death Rate": "N/A",
+    "Age Adjusted Death Rate": "N/A"
+  },
+  {
+    "Year": 2009,
+    "Leading Cause": "Malignant Neoplasms (Cancer: C00-C97)",
+    "Sex": "F",
+    "Race Ethnicity": "Asian and Pacific Islander",
+    "Deaths": 398,
+    "Death Rate": 72.5,
+    "Age Adjusted Death Rate": 83.5
+  },
+  {
+    "Year": 2009,
+    "Leading Cause": "Malignant Neoplasms (Cancer: C00-C97)",
+    "Sex": "F",
+    "Race Ethnicity": "Not Stated/Unknown",
+    "Deaths": 41,
+    "Death Rate": "N/A",
+    "Age Adjusted Death Rate": "N/A"
+  },
+  {
+    "Year": 2009,
+    "Leading Cause": "Malignant Neoplasms (Cancer: C00-C97)",
+    "Sex": "M",
+    "Race Ethnicity": "Other Race/ Ethnicity",
+    "Deaths": 12,
+    "Death Rate": "N/A",
+    "Age Adjusted Death Rate": "N/A"
+  },
+  {
+    "Year": 2009,
+    "Leading Cause": "Malignant Neoplasms (Cancer: C00-C97)",
+    "Sex": "F",
+    "Race Ethnicity": "Black Non-Hispanic",
+    "Deaths": 1735,
+    "Death Rate": 165.7,
+    "Age Adjusted Death Rate": 151.1
+  },
+  {
+    "Year": 2009,
+    "Leading Cause": "Malignant Neoplasms (Cancer: C00-C97)",
+    "Sex": "M",
+    "Race Ethnicity": "Not Stated/Unknown",
+    "Deaths": 47,
+    "Death Rate": "N/A",
+    "Age Adjusted Death Rate": "N/A"
+  },
+  {
+    "Year": 2010,
+    "Leading Cause": "Malignant Neoplasms (Cancer: C00-C97)",
+    "Sex": "F",
+    "Race Ethnicity": "Hispanic",
+    "Deaths": 1045,
+    "Death Rate": 85.9,
+    "Age Adjusted Death Rate": 98.5
+  },
+  {
+    "Year": 2010,
+    "Leading Cause": "Malignant Neoplasms (Cancer: C00-C97)",
+    "Sex": "M",
+    "Race Ethnicity": "White Non-Hispanic",
+    "Deaths": 3408,
+    "Death Rate": 254.1,
+    "Age Adjusted Death Rate": 216.6
+  },
+  {
+    "Year": 2010,
+    "Leading Cause": "Malignant Neoplasms (Cancer: C00-C97)",
+    "Sex": "F",
+    "Race Ethnicity": "Not Stated/Unknown",
+    "Deaths": 29,
+    "Death Rate": "N/A",
+    "Age Adjusted Death Rate": "N/A"
+  },
+  {
+    "Year": 2010,
+    "Leading Cause": "Malignant Neoplasms (Cancer: C00-C97)",
+    "Sex": "M",
+    "Race Ethnicity": "Black Non-Hispanic",
+    "Deaths": 1540,
+    "Death Rate": 180.9,
+    "Age Adjusted Death Rate": 224.1
+  },
+  {
+    "Year": 2010,
+    "Leading Cause": "Malignant Neoplasms (Cancer: C00-C97)",
+    "Sex": "F",
+    "Race Ethnicity": "White Non-Hispanic",
+    "Deaths": 3438,
+    "Death Rate": 240.4,
+    "Age Adjusted Death Rate": 163
+  },
+  {
+    "Year": 2010,
+    "Leading Cause": "Malignant Neoplasms (Cancer: C00-C97)",
+    "Sex": "F",
+    "Race Ethnicity": "Other Race/ Ethnicity",
+    "Deaths": 34,
+    "Death Rate": "N/A",
+    "Age Adjusted Death Rate": "N/A"
+  },
+  {
+    "Year": 2010,
+    "Leading Cause": "Malignant Neoplasms (Cancer: C00-C97)",
+    "Sex": "F",
+    "Race Ethnicity": "Black Non-Hispanic",
+    "Deaths": 1768,
+    "Death Rate": 168.6,
+    "Age Adjusted Death Rate": 151.8
+  },
+  {
+    "Year": 2010,
+    "Leading Cause": "Malignant Neoplasms (Cancer: C00-C97)",
+    "Sex": "M",
+    "Race Ethnicity": "Hispanic",
+    "Deaths": 1057,
+    "Death Rate": 92.5,
+    "Age Adjusted Death Rate": 150
+  },
+  {
+    "Year": 2010,
+    "Leading Cause": "Malignant Neoplasms (Cancer: C00-C97)",
+    "Sex": "M",
+    "Race Ethnicity": "Asian and Pacific Islander",
+    "Deaths": 526,
+    "Death Rate": 101,
+    "Age Adjusted Death Rate": 124.5
+  },
+  {
+    "Year": 2010,
+    "Leading Cause": "Malignant Neoplasms (Cancer: C00-C97)",
+    "Sex": "M",
+    "Race Ethnicity": "Other Race/ Ethnicity",
+    "Deaths": 25,
+    "Death Rate": "N/A",
+    "Age Adjusted Death Rate": "N/A"
+  },
+  {
+    "Year": 2010,
+    "Leading Cause": "Malignant Neoplasms (Cancer: C00-C97)",
+    "Sex": "M",
+    "Race Ethnicity": "Not Stated/Unknown",
+    "Deaths": 46,
+    "Death Rate": "N/A",
+    "Age Adjusted Death Rate": "N/A"
+  },
+  {
+    "Year": 2010,
+    "Leading Cause": "Malignant Neoplasms (Cancer: C00-C97)",
+    "Sex": "F",
+    "Race Ethnicity": "Asian and Pacific Islander",
+    "Deaths": 414,
+    "Death Rate": 73.6,
+    "Age Adjusted Death Rate": 79.9
+  },
+  {
+    "Year": 2011,
+    "Leading Cause": "Malignant Neoplasms (Cancer: C00-C97)",
+    "Sex": "F",
+    "Race Ethnicity": "Black Non-Hispanic",
+    "Deaths": 1918,
+    "Death Rate": 183.2,
+    "Age Adjusted Death Rate": 163.3
+  },
+  {
+    "Year": 2011,
+    "Leading Cause": "Malignant Neoplasms (Cancer: C00-C97)",
+    "Sex": "M",
+    "Race Ethnicity": "Asian and Pacific Islander",
+    "Deaths": 550,
+    "Death Rate": 104.1,
+    "Age Adjusted Death Rate": 130.4
+  },
+  {
+    "Year": 2011,
+    "Leading Cause": "Malignant Neoplasms (Cancer: C00-C97)",
+    "Sex": "F",
+    "Race Ethnicity": "White Non-Hispanic",
+    "Deaths": 3371,
+    "Death Rate": 238,
+    "Age Adjusted Death Rate": 161.1
+  },
+  {
+    "Year": 2011,
+    "Leading Cause": "Malignant Neoplasms (Cancer: C00-C97)",
+    "Sex": "F",
+    "Race Ethnicity": "Not Stated/Unknown",
+    "Deaths": 11,
+    "Death Rate": "N/A",
+    "Age Adjusted Death Rate": "N/A"
+  },
+  {
+    "Year": 2011,
+    "Leading Cause": "Malignant Neoplasms (Cancer: C00-C97)",
+    "Sex": "M",
+    "Race Ethnicity": "Other Race/ Ethnicity",
+    "Deaths": 36,
+    "Death Rate": "N/A",
+    "Age Adjusted Death Rate": "N/A"
+  },
+  {
+    "Year": 2011,
+    "Leading Cause": "Malignant Neoplasms (Cancer: C00-C97)",
+    "Sex": "M",
+    "Race Ethnicity": "White Non-Hispanic",
+    "Deaths": 3222,
+    "Death Rate": 241.6,
+    "Age Adjusted Death Rate": 206.1
+  },
+  {
+    "Year": 2011,
+    "Leading Cause": "Malignant Neoplasms (Cancer: C00-C97)",
+    "Sex": "F",
+    "Race Ethnicity": "Asian and Pacific Islander",
+    "Deaths": 451,
+    "Death Rate": 79.1,
+    "Age Adjusted Death Rate": 86.1
+  },
+  {
+    "Year": 2011,
+    "Leading Cause": "Malignant Neoplasms (Cancer: C00-C97)",
+    "Sex": "F",
+    "Race Ethnicity": "Hispanic",
+    "Deaths": 1085,
+    "Death Rate": 88.6,
+    "Age Adjusted Death Rate": 99.6
+  },
+  {
+    "Year": 2011,
+    "Leading Cause": "Malignant Neoplasms (Cancer: C00-C97)",
+    "Sex": "M",
+    "Race Ethnicity": "Hispanic",
+    "Deaths": 1144,
+    "Death Rate": 99.2,
+    "Age Adjusted Death Rate": 157.7
+  },
+  {
+    "Year": 2011,
+    "Leading Cause": "Malignant Neoplasms (Cancer: C00-C97)",
+    "Sex": "F",
+    "Race Ethnicity": "Other Race/ Ethnicity",
+    "Deaths": 33,
+    "Death Rate": "N/A",
+    "Age Adjusted Death Rate": "N/A"
+  },
+  {
+    "Year": 2011,
+    "Leading Cause": "Malignant Neoplasms (Cancer: C00-C97)",
+    "Sex": "M",
+    "Race Ethnicity": "Not Stated/Unknown",
+    "Deaths": 27,
+    "Death Rate": "N/A",
+    "Age Adjusted Death Rate": "N/A"
+  },
+  {
+    "Year": 2011,
+    "Leading Cause": "Malignant Neoplasms (Cancer: C00-C97)",
+    "Sex": "M",
+    "Race Ethnicity": "Black Non-Hispanic",
+    "Deaths": 1590,
+    "Death Rate": 186.4,
+    "Age Adjusted Death Rate": 224.4
+  },
+  {
+    "Year": 2012,
+    "Leading Cause": "Malignant Neoplasms (Cancer: C00-C97)",
+    "Sex": "M",
+    "Race Ethnicity": "Black Non-Hispanic",
+    "Deaths": 1563,
+    "Death Rate": 182.7,
+    "Age Adjusted Death Rate": 215.3
+  },
+  {
+    "Year": 2012,
+    "Leading Cause": "Malignant Neoplasms (Cancer: C00-C97)",
+    "Sex": "M",
+    "Race Ethnicity": "Other Race/ Ethnicity",
+    "Deaths": 34,
+    "Death Rate": "N/A",
+    "Age Adjusted Death Rate": "N/A"
+  },
+  {
+    "Year": 2012,
+    "Leading Cause": "Malignant Neoplasms (Cancer: C00-C97)",
+    "Sex": "M",
+    "Race Ethnicity": "Hispanic",
+    "Deaths": 1126,
+    "Death Rate": 96.4,
+    "Age Adjusted Death Rate": 151
+  },
+  {
+    "Year": 2012,
+    "Leading Cause": "Malignant Neoplasms (Cancer: C00-C97)",
+    "Sex": "F",
+    "Race Ethnicity": "Asian and Pacific Islander",
+    "Deaths": 461,
+    "Death Rate": 78.9,
+    "Age Adjusted Death Rate": 83.8
+  },
+  {
+    "Year": 2012,
+    "Leading Cause": "Malignant Neoplasms (Cancer: C00-C97)",
+    "Sex": "M",
+    "Race Ethnicity": "Asian and Pacific Islander",
+    "Deaths": 622,
+    "Death Rate": 115.1,
+    "Age Adjusted Death Rate": 138.4
+  },
+  {
+    "Year": 2012,
+    "Leading Cause": "Malignant Neoplasms (Cancer: C00-C97)",
+    "Sex": "F",
+    "Race Ethnicity": "Black Non-Hispanic",
+    "Deaths": 1912,
+    "Death Rate": 182.9,
+    "Age Adjusted Death Rate": 159.1
+  },
+  {
+    "Year": 2012,
+    "Leading Cause": "Malignant Neoplasms (Cancer: C00-C97)",
+    "Sex": "F",
+    "Race Ethnicity": "Hispanic",
+    "Deaths": 1125,
+    "Death Rate": 90.8,
+    "Age Adjusted Death Rate": 100.5
+  },
+  {
+    "Year": 2012,
+    "Leading Cause": "Malignant Neoplasms (Cancer: C00-C97)",
+    "Sex": "M",
+    "Race Ethnicity": "Not Stated/Unknown",
+    "Deaths": 53,
+    "Death Rate": "N/A",
+    "Age Adjusted Death Rate": "N/A"
+  },
+  {
+    "Year": 2012,
+    "Leading Cause": "Malignant Neoplasms (Cancer: C00-C97)",
+    "Sex": "F",
+    "Race Ethnicity": "White Non-Hispanic",
+    "Deaths": 3256,
+    "Death Rate": 229.6,
+    "Age Adjusted Death Rate": 157.3
+  },
+  {
+    "Year": 2012,
+    "Leading Cause": "Malignant Neoplasms (Cancer: C00-C97)",
+    "Sex": "F",
+    "Race Ethnicity": "Other Race/ Ethnicity",
+    "Deaths": 29,
+    "Death Rate": "N/A",
+    "Age Adjusted Death Rate": "N/A"
+  },
+  {
+    "Year": 2012,
+    "Leading Cause": "Malignant Neoplasms (Cancer: C00-C97)",
+    "Sex": "F",
+    "Race Ethnicity": "Not Stated/Unknown",
+    "Deaths": 36,
+    "Death Rate": "N/A",
+    "Age Adjusted Death Rate": "N/A"
+  },
+  {
+    "Year": 2012,
+    "Leading Cause": "Malignant Neoplasms (Cancer: C00-C97)",
+    "Sex": "M",
+    "Race Ethnicity": "White Non-Hispanic",
+    "Deaths": 3184,
+    "Death Rate": 237.7,
+    "Age Adjusted Death Rate": 200.7
+  },
+  {
+    "Year": 2013,
+    "Leading Cause": "Malignant Neoplasms (Cancer: C00-C97)",
+    "Sex": "F",
+    "Race Ethnicity": "Asian and Pacific Islander",
+    "Deaths": 467,
+    "Death Rate": 77.8,
+    "Age Adjusted Death Rate": 79.6
+  },
+  {
+    "Year": 2013,
+    "Leading Cause": "Malignant Neoplasms (Cancer: C00-C97)",
+    "Sex": "F",
+    "Race Ethnicity": "Hispanic",
+    "Deaths": 1149,
+    "Death Rate": 92.1,
+    "Age Adjusted Death Rate": 99.9
+  },
+  {
+    "Year": 2013,
+    "Leading Cause": "Malignant Neoplasms (Cancer: C00-C97)",
+    "Sex": "M",
+    "Race Ethnicity": "Black Non-Hispanic",
+    "Deaths": 1592,
+    "Death Rate": 185.5,
+    "Age Adjusted Death Rate": 212.8
+  },
+  {
+    "Year": 2013,
+    "Leading Cause": "Malignant Neoplasms (Cancer: C00-C97)",
+    "Sex": "M",
+    "Race Ethnicity": "Asian and Pacific Islander",
+    "Deaths": 633,
+    "Death Rate": 114.2,
+    "Age Adjusted Death Rate": 130.9
+  },
+  {
+    "Year": 2013,
+    "Leading Cause": "Malignant Neoplasms (Cancer: C00-C97)",
+    "Sex": "F",
+    "Race Ethnicity": "Other Race/ Ethnicity",
+    "Deaths": 43,
+    "Death Rate": "N/A",
+    "Age Adjusted Death Rate": "N/A"
+  },
+  {
+    "Year": 2013,
+    "Leading Cause": "Malignant Neoplasms (Cancer: C00-C97)",
+    "Sex": "F",
+    "Race Ethnicity": "Not Stated/Unknown",
+    "Deaths": 94,
+    "Death Rate": "N/A",
+    "Age Adjusted Death Rate": "N/A"
+  },
+  {
+    "Year": 2013,
+    "Leading Cause": "Malignant Neoplasms (Cancer: C00-C97)",
+    "Sex": "M",
+    "Race Ethnicity": "Not Stated/Unknown",
+    "Deaths": 99,
+    "Death Rate": "N/A",
+    "Age Adjusted Death Rate": "N/A"
+  },
+  {
+    "Year": 2013,
+    "Leading Cause": "Malignant Neoplasms (Cancer: C00-C97)",
+    "Sex": "F",
+    "Race Ethnicity": "White Non-Hispanic",
+    "Deaths": 3187,
+    "Death Rate": 224.2,
+    "Age Adjusted Death Rate": 153.3
+  },
+  {
+    "Year": 2013,
+    "Leading Cause": "Malignant Neoplasms (Cancer: C00-C97)",
+    "Sex": "F",
+    "Race Ethnicity": "Black Non-Hispanic",
+    "Deaths": 1784,
+    "Death Rate": 170.8,
+    "Age Adjusted Death Rate": 145.5
+  },
+  {
+    "Year": 2013,
+    "Leading Cause": "Malignant Neoplasms (Cancer: C00-C97)",
+    "Sex": "M",
+    "Race Ethnicity": "White Non-Hispanic",
+    "Deaths": 3132,
+    "Death Rate": 232.7,
+    "Age Adjusted Death Rate": 194.5
+  },
+  {
+    "Year": 2013,
+    "Leading Cause": "Malignant Neoplasms (Cancer: C00-C97)",
+    "Sex": "M",
+    "Race Ethnicity": "Other Race/ Ethnicity",
+    "Deaths": 32,
+    "Death Rate": "N/A",
+    "Age Adjusted Death Rate": "N/A"
+  },
+  {
+    "Year": 2013,
+    "Leading Cause": "Malignant Neoplasms (Cancer: C00-C97)",
+    "Sex": "M",
+    "Race Ethnicity": "Hispanic",
+    "Deaths": 1146,
+    "Death Rate": 97.1,
+    "Age Adjusted Death Rate": 148.5
+  },
+  {
+    "Year": 2014,
+    "Leading Cause": "Malignant Neoplasms (Cancer: C00-C97)",
+    "Sex": "F",
+    "Race Ethnicity": "Other Race/ Ethnicity",
+    "Deaths": 66,
+    "Death Rate": "N/A",
+    "Age Adjusted Death Rate": "N/A"
+  },
+  {
+    "Year": 2014,
+    "Leading Cause": "Malignant Neoplasms (Cancer: C00-C97)",
+    "Sex": "M",
+    "Race Ethnicity": "Asian and Pacific Islander",
+    "Deaths": 657,
+    "Death Rate": 114.5,
+    "Age Adjusted Death Rate": 129.5
+  },
+  {
+    "Year": 2014,
+    "Leading Cause": "Malignant Neoplasms (Cancer: C00-C97)",
+    "Sex": "F",
+    "Race Ethnicity": "Black Non-Hispanic",
+    "Deaths": 1852,
+    "Death Rate": 176.5,
+    "Age Adjusted Death Rate": 148.4
+  },
+  {
+    "Year": 2014,
+    "Leading Cause": "Malignant Neoplasms (Cancer: C00-C97)",
+    "Sex": "M",
+    "Race Ethnicity": "Hispanic",
+    "Deaths": 1146,
+    "Death Rate": 96,
+    "Age Adjusted Death Rate": 143.5
+  },
+  {
+    "Year": 2014,
+    "Leading Cause": "Malignant Neoplasms (Cancer: C00-C97)",
+    "Sex": "M",
+    "Race Ethnicity": "Black Non-Hispanic",
+    "Deaths": 1532,
+    "Death Rate": 177.5,
+    "Age Adjusted Death Rate": 199.6
+  },
+  {
+    "Year": 2014,
+    "Leading Cause": "Malignant Neoplasms (Cancer: C00-C97)",
+    "Sex": "F",
+    "Race Ethnicity": "Not Stated/Unknown",
+    "Deaths": 50,
+    "Death Rate": "N/A",
+    "Age Adjusted Death Rate": "N/A"
+  },
+  {
+    "Year": 2014,
+    "Leading Cause": "Malignant Neoplasms (Cancer: C00-C97)",
+    "Sex": "F",
+    "Race Ethnicity": "Asian and Pacific Islander",
+    "Deaths": 502,
+    "Death Rate": 80.2,
+    "Age Adjusted Death Rate": 80.6
+  },
+  {
+    "Year": 2014,
+    "Leading Cause": "Malignant Neoplasms (Cancer: C00-C97)",
+    "Sex": "M",
+    "Race Ethnicity": "Not Stated/Unknown",
+    "Deaths": 73,
+    "Death Rate": "N/A",
+    "Age Adjusted Death Rate": "N/A"
+  },
+  {
+    "Year": 2014,
+    "Leading Cause": "Malignant Neoplasms (Cancer: C00-C97)",
+    "Sex": "M",
+    "Race Ethnicity": "Other Race/ Ethnicity",
+    "Deaths": 50,
+    "Death Rate": "N/A",
+    "Age Adjusted Death Rate": "N/A"
+  },
+  {
+    "Year": 2014,
+    "Leading Cause": "Malignant Neoplasms (Cancer: C00-C97)",
+    "Sex": "F",
+    "Race Ethnicity": "Hispanic",
+    "Deaths": 1154,
+    "Death Rate": 91.1,
+    "Age Adjusted Death Rate": 97.4
+  },
+  {
+    "Year": 2014,
+    "Leading Cause": "Malignant Neoplasms (Cancer: C00-C97)",
+    "Sex": "M",
+    "Race Ethnicity": "White Non-Hispanic",
+    "Deaths": 3142,
+    "Death Rate": 234,
+    "Age Adjusted Death Rate": 195.1
+  },
+  {
+    "Year": 2014,
+    "Leading Cause": "Malignant Neoplasms (Cancer: C00-C97)",
+    "Sex": "F",
+    "Race Ethnicity": "White Non-Hispanic",
+    "Deaths": 3153,
+    "Death Rate": 222.5,
+    "Age Adjusted Death Rate": 150.2
+  }
+]
