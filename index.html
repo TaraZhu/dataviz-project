@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <script src="https://d3js.org/d3.v4.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/d3-legend/2.24.0/d3-legend.min.js"></script>
+    <title>New York City Leading Causes of Death</title>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.6/css/bootstrap.min.css"
+          integrity="sha384-rwoIResjU2yc3z8GV/NPeZWAv56rSmLldC3R/AZzGRnGxQQKnKkoFVhFQhNUwEyJ" crossorigin="anonymous">
+    <script src="https://code.jquery.com/jquery-3.1.1.slim.min.js"
+            integrity="sha384-A7FZj7v+d/sdmMqp/nOQwliLvUsJfDHW+k9Omg/a/EheAdgtzNs3hpfag6Ed950n"
+            crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/tether/1.4.0/js/tether.min.js"
+            integrity="sha384-DztdAPBWPRXSA/3eYEEUWrWCy7G5KFbe8fFjk5JAIxUYHKkDx6Qin1DkWx51bBrb"
+            crossorigin="anonymous"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.6/js/bootstrap.min.js"
+            integrity="sha384-vBWWzlZJ8ea9aCX4pEW3rVHjgjt7zpkNpZk+02D9phzyeVkE+jo0ieGizqPLForn"
+            crossorigin="anonymous"></script>
+    <link rel="stylesheet" href="css/styles.css">
+</head>
+<body>
+<div class="title">
+    <h2>New York City Leading Causes of Death</h2>
+</div>
+
+<div>
+    <p class="introduction">This visualization is about the leading causes of death by gender and ethnicity in New York City from 2007 to 2014. <br>More information please visit <a href="https://github.com/TaraZhu/dataviz-project">this project on Github.</a></p>
+</div>
+
+<div class="row">
+    <div class="col">
+        <h3>Top 5 Causes of Death in NYC</h3>
+        <p class="instruction">Click the name of disease to see detailed data in right panel.</p>
+    </div>
+    <div class="col">
+        <h3>Numbers of Deaths by Race and Gender</h3>
+        <p class="instruction">Drag slider to select year.</p>
+    </div>
+</div>
+<div class="row">
+    <div id="lineChart" class="col">
+    </div>
+    <div id="groupedBarChart" class="col">
+    </div>
+</div>
+
+<script src="./dist/bundle.js"></script>
+</body>
+</html>
