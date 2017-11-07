@@ -6,7 +6,8 @@ This project is WPI CS573 Data visualization course project. By using [D3.js](ht
 
 ## Project URL
 A demo of the end result can be seen here:
-https://tarazhu.github.io/dataviz-project/
+https://tarazhu.github.io/dataviz-project/.
+
 The code can be found here:
 https://github.com/TaraZhu/dataviz-project
 
