@@ -1,0 +1,104 @@
+body {
+    margin: 1em;
+}
+
+h2 {
+    text-align: center;
+    font-size: 1.5em;
+    font-weight: 600;
+    margin: 1em;
+}
+
+h3 {
+    text-align: center;
+    font-size: 1em;
+    font-weight: 600;
+    margin-top: 0.8em;
+}
+
+.instruction {
+    text-align: center;
+    margin: 0.5em;
+    font-size: 0.8em;
+}
+
+.introduction {
+    word-wrap: break-word;
+}
+
+/* CSS that makes chart responsive */
+
+#svg-container {
+    position: relative;
+    width: 100%;
+    overflow: hidden;
+}
+
+.svg-content-responsive {
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+
+/* CSS that for placeholder */
+
+.graph-svg-placeholder {
+    background-color: #EEEEEE;
+}
+
+/* CSS that for line chart */
+
+path { 
+    stroke: steelblue;
+    stroke-width: 2;
+    fill: none;
+}
+
+.axis path,
+.axis line {
+    fill: none;
+    stroke: grey;
+    stroke-width: 1;
+    shape-rendering: crispEdges;
+}
+
+.legend {
+    text-anchor: middle;
+}
+
+/*  CSS that for slider bar */
+
+.ticks {
+    font: 1em;
+}
+
+.track,
+.track-inset,
+.track-overlay {
+    stroke-linecap: round;
+}
+
+.track {
+    stroke: #000;
+    stroke-opacity: 0.3;
+    stroke-width: 10px;
+}
+
+.track-inset {
+    stroke: #ddd;
+    stroke-width: 8px;
+}
+
+.track-overlay {
+    pointer-events: stroke;
+    stroke-width: 50px;
+    stroke: transparent;
+    cursor: crosshair;
+}
+
+.handle {
+    fill: #fff;
+    stroke: #000;
+    stroke-opacity: 0.5;
+    stroke-width: 1.25px;
+}
