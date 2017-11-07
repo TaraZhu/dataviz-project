@@ -24,3 +24,4 @@ This visualization mainly consists of two parts. 1) The line chart in the left p
 In the left panel, by clicking/unclicking the disease name, user can select/unselect the disease he/she want to be updated on the right panel. If no disease is selected, the right panel shows the distribution of total death number over gender and race in selected year. 
 
 In the right panel, by dragging slider on the selection bar, the grouped bar chart below will be updated to present the number of deaths in each race and gender in selected year. Hover on a bar, a tooltip will appear to show detailed information of this bar including year, death number, race and gender.
+![image](https://github.com/TaraZhu/dataviz-project/blob/master/photos/Untitled-3.png)
