@@ -25,7 +25,7 @@ In the left panel, by clicking/unclicking the disease name, user can select/unse
 
 In the right panel, by dragging slider on the selection bar, the grouped bar chart below will be updated to present the number of deaths in each race and gender in selected year. Hover on a bar, a tooltip will appear to show detailed information of this bar including year, death number, race and gender.
 
-Figure 1.
+#Figure 1.
 ![image](https://github.com/TaraZhu/dataviz-project/blob/master/photos/Untitled-3.png)
 
 ## Answered questions and discussions
