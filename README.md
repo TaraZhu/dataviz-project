@@ -30,14 +30,20 @@ Figure 1.
 
 ## Answered questions and discussions
 From 2007 to 2014, How does the total death number or death rate vary over time?
+
 As shown in Fig. 1, The death number of heart disease decreased, while the death number of All other cause increased. There is not much volatility for diabetes, flu and malignant neoplasms.
 
 In each year, how is the death number distributed over races and gender?
+
 As shown in Fig. 2, for the death number, white > Africa american > hispanic > asian, and this pattern is kept in different year. Because we lack of the total population distribution over race and gender，we can not make conclusion that whether a disease have a higher/lower death rate for a particular race.
+
 Figure 2.
 ![image](https://github.com/TaraZhu/dataviz-project/blob/master/photos/Untitled-2.png)
 
 Is there any correlation between gender or races and diseases?
+
 As shown in Fig. 3, we can notice that for diabetes a significate increase of death number of Africa american women than it in Africa american men，whilc compare with the pattern in other race. That may indicate a correlation between Africa american women and diabetes.
+
+Figure 3.
 ![image](https://github.com/TaraZhu/dataviz-project/blob/master/photos/Untitled-1.png)
 
