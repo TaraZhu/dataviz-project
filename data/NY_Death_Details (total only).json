@@ -1,0 +1,866 @@
+[
+  {
+    "Year": 2007,
+    "Leading Cause": "Total",
+    "Sex": "F",
+    "Race Ethnicity": "Other Race/ Ethnicity",
+    "Deaths": 80,
+    "Death Rate": 0,
+    "Age Adjusted Death Rate": 0
+  },
+  {
+    "Year": 2007,
+    "Leading Cause": "Total",
+    "Sex": "M",
+    "Race Ethnicity": "Other Race/ Ethnicity",
+    "Deaths": 119,
+    "Death Rate": 0,
+    "Age Adjusted Death Rate": 0
+  },
+  {
+    "Year": 2007,
+    "Leading Cause": "Total",
+    "Sex": "F",
+    "Race Ethnicity": "Not Stated/Unknown",
+    "Deaths": 176,
+    "Death Rate": 0,
+    "Age Adjusted Death Rate": 0
+  },
+  {
+    "Year": 2007,
+    "Leading Cause": "Total",
+    "Sex": "M",
+    "Race Ethnicity": "Not Stated/Unknown",
+    "Deaths": 225,
+    "Death Rate": 0,
+    "Age Adjusted Death Rate": 0
+  },
+  {
+    "Year": 2007,
+    "Leading Cause": "Total",
+    "Sex": "F",
+    "Race Ethnicity": "Asian and Pacific Islander",
+    "Deaths": 1285,
+    "Death Rate": 0,
+    "Age Adjusted Death Rate": 0
+  },
+  {
+    "Year": 2007,
+    "Leading Cause": "Total",
+    "Sex": "M",
+    "Race Ethnicity": "Asian and Pacific Islander",
+    "Deaths": 1589,
+    "Death Rate": 0,
+    "Age Adjusted Death Rate": 0
+  },
+  {
+    "Year": 2007,
+    "Leading Cause": "Total",
+    "Sex": "F",
+    "Race Ethnicity": "Hispanic",
+    "Deaths": 4189,
+    "Death Rate": 0,
+    "Age Adjusted Death Rate": 0
+  },
+  {
+    "Year": 2007,
+    "Leading Cause": "Total",
+    "Sex": "M",
+    "Race Ethnicity": "Hispanic",
+    "Deaths": 4596,
+    "Death Rate": 0,
+    "Age Adjusted Death Rate": 0
+  },
+  {
+    "Year": 2007,
+    "Leading Cause": "Total",
+    "Sex": "M",
+    "Race Ethnicity": "Black Non-Hispanic",
+    "Deaths": 6734,
+    "Death Rate": 0,
+    "Age Adjusted Death Rate": 0
+  },
+  {
+    "Year": 2007,
+    "Leading Cause": "Total",
+    "Sex": "F",
+    "Race Ethnicity": "Black Non-Hispanic",
+    "Deaths": 7524,
+    "Death Rate": 0,
+    "Age Adjusted Death Rate": 0
+  },
+  {
+    "Year": 2007,
+    "Leading Cause": "Total",
+    "Sex": "M",
+    "Race Ethnicity": "White Non-Hispanic",
+    "Deaths": 12984,
+    "Death Rate": 0,
+    "Age Adjusted Death Rate": 0
+  },
+  {
+    "Year": 2007,
+    "Leading Cause": "Total",
+    "Sex": "F",
+    "Race Ethnicity": "White Non-Hispanic",
+    "Deaths": 14495,
+    "Death Rate": 0,
+    "Age Adjusted Death Rate": 0
+  },
+  {
+    "Year": 2008,
+    "Leading Cause": "Total",
+    "Sex": "F",
+    "Race Ethnicity": "Other Race/ Ethnicity",
+    "Deaths": 75,
+    "Death Rate": 0,
+    "Age Adjusted Death Rate": 0
+  },
+  {
+    "Year": 2008,
+    "Leading Cause": "Total",
+    "Sex": "M",
+    "Race Ethnicity": "Other Race/ Ethnicity",
+    "Deaths": 95,
+    "Death Rate": 0,
+    "Age Adjusted Death Rate": 0
+  },
+  {
+    "Year": 2008,
+    "Leading Cause": "Total",
+    "Sex": "F",
+    "Race Ethnicity": "Not Stated/Unknown",
+    "Deaths": 194,
+    "Death Rate": 0,
+    "Age Adjusted Death Rate": 0
+  },
+  {
+    "Year": 2008,
+    "Leading Cause": "Total",
+    "Sex": "M",
+    "Race Ethnicity": "Not Stated/Unknown",
+    "Deaths": 295,
+    "Death Rate": 0,
+    "Age Adjusted Death Rate": 0
+  },
+  {
+    "Year": 2008,
+    "Leading Cause": "Total",
+    "Sex": "F",
+    "Race Ethnicity": "Asian and Pacific Islander",
+    "Deaths": 1336,
+    "Death Rate": 0,
+    "Age Adjusted Death Rate": 0
+  },
+  {
+    "Year": 2008,
+    "Leading Cause": "Total",
+    "Sex": "M",
+    "Race Ethnicity": "Asian and Pacific Islander",
+    "Deaths": 1621,
+    "Death Rate": 0,
+    "Age Adjusted Death Rate": 0
+  },
+  {
+    "Year": 2008,
+    "Leading Cause": "Total",
+    "Sex": "F",
+    "Race Ethnicity": "Hispanic",
+    "Deaths": 4419,
+    "Death Rate": 0,
+    "Age Adjusted Death Rate": 0
+  },
+  {
+    "Year": 2008,
+    "Leading Cause": "Total",
+    "Sex": "M",
+    "Race Ethnicity": "Hispanic",
+    "Deaths": 4842,
+    "Death Rate": 0,
+    "Age Adjusted Death Rate": 0
+  },
+  {
+    "Year": 2008,
+    "Leading Cause": "Total",
+    "Sex": "M",
+    "Race Ethnicity": "Black Non-Hispanic",
+    "Deaths": 6541,
+    "Death Rate": 0,
+    "Age Adjusted Death Rate": 0
+  },
+  {
+    "Year": 2008,
+    "Leading Cause": "Total",
+    "Sex": "F",
+    "Race Ethnicity": "Black Non-Hispanic",
+    "Deaths": 7465,
+    "Death Rate": 0,
+    "Age Adjusted Death Rate": 0
+  },
+  {
+    "Year": 2008,
+    "Leading Cause": "Total",
+    "Sex": "M",
+    "Race Ethnicity": "White Non-Hispanic",
+    "Deaths": 12914,
+    "Death Rate": 0,
+    "Age Adjusted Death Rate": 0
+  },
+  {
+    "Year": 2008,
+    "Leading Cause": "Total",
+    "Sex": "F",
+    "Race Ethnicity": "White Non-Hispanic",
+    "Deaths": 14217,
+    "Death Rate": 0,
+    "Age Adjusted Death Rate": 0
+  },
+  {
+    "Year": 2009,
+    "Leading Cause": "Total",
+    "Sex": "M",
+    "Race Ethnicity": "Other Race/ Ethnicity",
+    "Deaths": 68,
+    "Death Rate": 0,
+    "Age Adjusted Death Rate": 0
+  },
+  {
+    "Year": 2009,
+    "Leading Cause": "Total",
+    "Sex": "F",
+    "Race Ethnicity": "Other Race/ Ethnicity",
+    "Deaths": 75,
+    "Death Rate": 0,
+    "Age Adjusted Death Rate": 0
+  },
+  {
+    "Year": 2009,
+    "Leading Cause": "Total",
+    "Sex": "F",
+    "Race Ethnicity": "Not Stated/Unknown",
+    "Deaths": 207,
+    "Death Rate": 0,
+    "Age Adjusted Death Rate": 0
+  },
+  {
+    "Year": 2009,
+    "Leading Cause": "Total",
+    "Sex": "M",
+    "Race Ethnicity": "Not Stated/Unknown",
+    "Deaths": 272,
+    "Death Rate": 0,
+    "Age Adjusted Death Rate": 0
+  },
+  {
+    "Year": 2009,
+    "Leading Cause": "Total",
+    "Sex": "F",
+    "Race Ethnicity": "Asian and Pacific Islander",
+    "Deaths": 1381,
+    "Death Rate": 0,
+    "Age Adjusted Death Rate": 0
+  },
+  {
+    "Year": 2009,
+    "Leading Cause": "Total",
+    "Sex": "M",
+    "Race Ethnicity": "Asian and Pacific Islander",
+    "Deaths": 1654,
+    "Death Rate": 0,
+    "Age Adjusted Death Rate": 0
+  },
+  {
+    "Year": 2009,
+    "Leading Cause": "Total",
+    "Sex": "F",
+    "Race Ethnicity": "Hispanic",
+    "Deaths": 4310,
+    "Death Rate": 0,
+    "Age Adjusted Death Rate": 0
+  },
+  {
+    "Year": 2009,
+    "Leading Cause": "Total",
+    "Sex": "M",
+    "Race Ethnicity": "Hispanic",
+    "Deaths": 4868,
+    "Death Rate": 0,
+    "Age Adjusted Death Rate": 0
+  },
+  {
+    "Year": 2009,
+    "Leading Cause": "Total",
+    "Sex": "M",
+    "Race Ethnicity": "Black Non-Hispanic",
+    "Deaths": 6513,
+    "Death Rate": 0,
+    "Age Adjusted Death Rate": 0
+  },
+  {
+    "Year": 2009,
+    "Leading Cause": "Total",
+    "Sex": "F",
+    "Race Ethnicity": "Black Non-Hispanic",
+    "Deaths": 7262,
+    "Death Rate": 0,
+    "Age Adjusted Death Rate": 0
+  },
+  {
+    "Year": 2009,
+    "Leading Cause": "Total",
+    "Sex": "M",
+    "Race Ethnicity": "White Non-Hispanic",
+    "Deaths": 12504,
+    "Death Rate": 0,
+    "Age Adjusted Death Rate": 0
+  },
+  {
+    "Year": 2009,
+    "Leading Cause": "Total",
+    "Sex": "F",
+    "Race Ethnicity": "White Non-Hispanic",
+    "Deaths": 13706,
+    "Death Rate": 0,
+    "Age Adjusted Death Rate": 0
+  },
+  {
+    "Year": 2010,
+    "Leading Cause": "Total",
+    "Sex": "F",
+    "Race Ethnicity": "Other Race/ Ethnicity",
+    "Deaths": 123,
+    "Death Rate": 0,
+    "Age Adjusted Death Rate": 0
+  },
+  {
+    "Year": 2010,
+    "Leading Cause": "Total",
+    "Sex": "M",
+    "Race Ethnicity": "Other Race/ Ethnicity",
+    "Deaths": 123,
+    "Death Rate": 0,
+    "Age Adjusted Death Rate": 0
+  },
+  {
+    "Year": 2010,
+    "Leading Cause": "Total",
+    "Sex": "F",
+    "Race Ethnicity": "Not Stated/Unknown",
+    "Deaths": 138,
+    "Death Rate": 0,
+    "Age Adjusted Death Rate": 0
+  },
+  {
+    "Year": 2010,
+    "Leading Cause": "Total",
+    "Sex": "M",
+    "Race Ethnicity": "Not Stated/Unknown",
+    "Deaths": 197,
+    "Death Rate": 0,
+    "Age Adjusted Death Rate": 0
+  },
+  {
+    "Year": 2010,
+    "Leading Cause": "Total",
+    "Sex": "F",
+    "Race Ethnicity": "Asian and Pacific Islander",
+    "Deaths": 1381,
+    "Death Rate": 0,
+    "Age Adjusted Death Rate": 0
+  },
+  {
+    "Year": 2010,
+    "Leading Cause": "Total",
+    "Sex": "M",
+    "Race Ethnicity": "Asian and Pacific Islander",
+    "Deaths": 1776,
+    "Death Rate": 0,
+    "Age Adjusted Death Rate": 0
+  },
+  {
+    "Year": 2010,
+    "Leading Cause": "Total",
+    "Sex": "F",
+    "Race Ethnicity": "Hispanic",
+    "Deaths": 4442,
+    "Death Rate": 0,
+    "Age Adjusted Death Rate": 0
+  },
+  {
+    "Year": 2010,
+    "Leading Cause": "Total",
+    "Sex": "M",
+    "Race Ethnicity": "Hispanic",
+    "Deaths": 4898,
+    "Death Rate": 0,
+    "Age Adjusted Death Rate": 0
+  },
+  {
+    "Year": 2010,
+    "Leading Cause": "Total",
+    "Sex": "M",
+    "Race Ethnicity": "Black Non-Hispanic",
+    "Deaths": 6559,
+    "Death Rate": 0,
+    "Age Adjusted Death Rate": 0
+  },
+  {
+    "Year": 2010,
+    "Leading Cause": "Total",
+    "Sex": "F",
+    "Race Ethnicity": "Black Non-Hispanic",
+    "Deaths": 7078,
+    "Death Rate": 0,
+    "Age Adjusted Death Rate": 0
+  },
+  {
+    "Year": 2010,
+    "Leading Cause": "Total",
+    "Sex": "M",
+    "Race Ethnicity": "White Non-Hispanic",
+    "Deaths": 12277,
+    "Death Rate": 0,
+    "Age Adjusted Death Rate": 0
+  },
+  {
+    "Year": 2010,
+    "Leading Cause": "Total",
+    "Sex": "F",
+    "Race Ethnicity": "White Non-Hispanic",
+    "Deaths": 13513,
+    "Death Rate": 0,
+    "Age Adjusted Death Rate": 0
+  },
+  {
+    "Year": 2011,
+    "Leading Cause": "Total",
+    "Sex": "F",
+    "Race Ethnicity": "Not Stated/Unknown",
+    "Deaths": 101,
+    "Death Rate": 0,
+    "Age Adjusted Death Rate": 0
+  },
+  {
+    "Year": 2011,
+    "Leading Cause": "Total",
+    "Sex": "F",
+    "Race Ethnicity": "Other Race/ Ethnicity",
+    "Deaths": 121,
+    "Death Rate": 0,
+    "Age Adjusted Death Rate": 0
+  },
+  {
+    "Year": 2011,
+    "Leading Cause": "Total",
+    "Sex": "M",
+    "Race Ethnicity": "Other Race/ Ethnicity",
+    "Deaths": 146,
+    "Death Rate": 0,
+    "Age Adjusted Death Rate": 0
+  },
+  {
+    "Year": 2011,
+    "Leading Cause": "Total",
+    "Sex": "M",
+    "Race Ethnicity": "Not Stated/Unknown",
+    "Deaths": 167,
+    "Death Rate": 0,
+    "Age Adjusted Death Rate": 0
+  },
+  {
+    "Year": 2011,
+    "Leading Cause": "Total",
+    "Sex": "F",
+    "Race Ethnicity": "Asian and Pacific Islander",
+    "Deaths": 1527,
+    "Death Rate": 0,
+    "Age Adjusted Death Rate": 0
+  },
+  {
+    "Year": 2011,
+    "Leading Cause": "Total",
+    "Sex": "M",
+    "Race Ethnicity": "Asian and Pacific Islander",
+    "Deaths": 1814,
+    "Death Rate": 0,
+    "Age Adjusted Death Rate": 0
+  },
+  {
+    "Year": 2011,
+    "Leading Cause": "Total",
+    "Sex": "F",
+    "Race Ethnicity": "Hispanic",
+    "Deaths": 4506,
+    "Death Rate": 0,
+    "Age Adjusted Death Rate": 0
+  },
+  {
+    "Year": 2011,
+    "Leading Cause": "Total",
+    "Sex": "M",
+    "Race Ethnicity": "Hispanic",
+    "Deaths": 4885,
+    "Death Rate": 0,
+    "Age Adjusted Death Rate": 0
+  },
+  {
+    "Year": 2011,
+    "Leading Cause": "Total",
+    "Sex": "M",
+    "Race Ethnicity": "Black Non-Hispanic",
+    "Deaths": 6549,
+    "Death Rate": 0,
+    "Age Adjusted Death Rate": 0
+  },
+  {
+    "Year": 2011,
+    "Leading Cause": "Total",
+    "Sex": "F",
+    "Race Ethnicity": "Black Non-Hispanic",
+    "Deaths": 7361,
+    "Death Rate": 0,
+    "Age Adjusted Death Rate": 0
+  },
+  {
+    "Year": 2011,
+    "Leading Cause": "Total",
+    "Sex": "M",
+    "Race Ethnicity": "White Non-Hispanic",
+    "Deaths": 12090,
+    "Death Rate": 0,
+    "Age Adjusted Death Rate": 0
+  },
+  {
+    "Year": 2011,
+    "Leading Cause": "Total",
+    "Sex": "F",
+    "Race Ethnicity": "White Non-Hispanic",
+    "Deaths": 13459,
+    "Death Rate": 0,
+    "Age Adjusted Death Rate": 0
+  },
+  {
+    "Year": 2012,
+    "Leading Cause": "Total",
+    "Sex": "F",
+    "Race Ethnicity": "Other Race/ Ethnicity",
+    "Deaths": 122,
+    "Death Rate": 0,
+    "Age Adjusted Death Rate": 0
+  },
+  {
+    "Year": 2012,
+    "Leading Cause": "Total",
+    "Sex": "M",
+    "Race Ethnicity": "Other Race/ Ethnicity",
+    "Deaths": 123,
+    "Death Rate": 0,
+    "Age Adjusted Death Rate": 0
+  },
+  {
+    "Year": 2012,
+    "Leading Cause": "Total",
+    "Sex": "F",
+    "Race Ethnicity": "Not Stated/Unknown",
+    "Deaths": 227,
+    "Death Rate": 0,
+    "Age Adjusted Death Rate": 0
+  },
+  {
+    "Year": 2012,
+    "Leading Cause": "Total",
+    "Sex": "M",
+    "Race Ethnicity": "Not Stated/Unknown",
+    "Deaths": 314,
+    "Death Rate": 0,
+    "Age Adjusted Death Rate": 0
+  },
+  {
+    "Year": 2012,
+    "Leading Cause": "Total",
+    "Sex": "F",
+    "Race Ethnicity": "Asian and Pacific Islander",
+    "Deaths": 1590,
+    "Death Rate": 0,
+    "Age Adjusted Death Rate": 0
+  },
+  {
+    "Year": 2012,
+    "Leading Cause": "Total",
+    "Sex": "M",
+    "Race Ethnicity": "Asian and Pacific Islander",
+    "Deaths": 1856,
+    "Death Rate": 0,
+    "Age Adjusted Death Rate": 0
+  },
+  {
+    "Year": 2012,
+    "Leading Cause": "Total",
+    "Sex": "F",
+    "Race Ethnicity": "Hispanic",
+    "Deaths": 4574,
+    "Death Rate": 0,
+    "Age Adjusted Death Rate": 0
+  },
+  {
+    "Year": 2012,
+    "Leading Cause": "Total",
+    "Sex": "M",
+    "Race Ethnicity": "Hispanic",
+    "Deaths": 4846,
+    "Death Rate": 0,
+    "Age Adjusted Death Rate": 0
+  },
+  {
+    "Year": 2012,
+    "Leading Cause": "Total",
+    "Sex": "M",
+    "Race Ethnicity": "Black Non-Hispanic",
+    "Deaths": 6480,
+    "Death Rate": 0,
+    "Age Adjusted Death Rate": 0
+  },
+  {
+    "Year": 2012,
+    "Leading Cause": "Total",
+    "Sex": "F",
+    "Race Ethnicity": "Black Non-Hispanic",
+    "Deaths": 7384,
+    "Death Rate": 0,
+    "Age Adjusted Death Rate": 0
+  },
+  {
+    "Year": 2012,
+    "Leading Cause": "Total",
+    "Sex": "M",
+    "Race Ethnicity": "White Non-Hispanic",
+    "Deaths": 12035,
+    "Death Rate": 0,
+    "Age Adjusted Death Rate": 0
+  },
+  {
+    "Year": 2012,
+    "Leading Cause": "Total",
+    "Sex": "F",
+    "Race Ethnicity": "White Non-Hispanic",
+    "Deaths": 12869,
+    "Death Rate": 0,
+    "Age Adjusted Death Rate": 0
+  },
+  {
+    "Year": 2013,
+    "Leading Cause": "Total",
+    "Sex": "F",
+    "Race Ethnicity": "Other Race/ Ethnicity",
+    "Deaths": 159,
+    "Death Rate": 0,
+    "Age Adjusted Death Rate": 0
+  },
+  {
+    "Year": 2013,
+    "Leading Cause": "Total",
+    "Sex": "M",
+    "Race Ethnicity": "Other Race/ Ethnicity",
+    "Deaths": 197,
+    "Death Rate": 0,
+    "Age Adjusted Death Rate": 0
+  },
+  {
+    "Year": 2013,
+    "Leading Cause": "Total",
+    "Sex": "F",
+    "Race Ethnicity": "Not Stated/Unknown",
+    "Deaths": 365,
+    "Death Rate": 0,
+    "Age Adjusted Death Rate": 0
+  },
+  {
+    "Year": 2013,
+    "Leading Cause": "Total",
+    "Sex": "M",
+    "Race Ethnicity": "Not Stated/Unknown",
+    "Deaths": 541,
+    "Death Rate": 0,
+    "Age Adjusted Death Rate": 0
+  },
+  {
+    "Year": 2013,
+    "Leading Cause": "Total",
+    "Sex": "F",
+    "Race Ethnicity": "Asian and Pacific Islander",
+    "Deaths": 1585,
+    "Death Rate": 0,
+    "Age Adjusted Death Rate": 0
+  },
+  {
+    "Year": 2013,
+    "Leading Cause": "Total",
+    "Sex": "M",
+    "Race Ethnicity": "Asian and Pacific Islander",
+    "Deaths": 2066,
+    "Death Rate": 0,
+    "Age Adjusted Death Rate": 0
+  },
+  {
+    "Year": 2013,
+    "Leading Cause": "Total",
+    "Sex": "F",
+    "Race Ethnicity": "Hispanic",
+    "Deaths": 4653,
+    "Death Rate": 0,
+    "Age Adjusted Death Rate": 0
+  },
+  {
+    "Year": 2013,
+    "Leading Cause": "Total",
+    "Sex": "M",
+    "Race Ethnicity": "Hispanic",
+    "Deaths": 5019,
+    "Death Rate": 0,
+    "Age Adjusted Death Rate": 0
+  },
+  {
+    "Year": 2013,
+    "Leading Cause": "Total",
+    "Sex": "M",
+    "Race Ethnicity": "Black Non-Hispanic",
+    "Deaths": 6435,
+    "Death Rate": 0,
+    "Age Adjusted Death Rate": 0
+  },
+  {
+    "Year": 2013,
+    "Leading Cause": "Total",
+    "Sex": "F",
+    "Race Ethnicity": "Black Non-Hispanic",
+    "Deaths": 7476,
+    "Death Rate": 0,
+    "Age Adjusted Death Rate": 0
+  },
+  {
+    "Year": 2013,
+    "Leading Cause": "Total",
+    "Sex": "M",
+    "Race Ethnicity": "White Non-Hispanic",
+    "Deaths": 11996,
+    "Death Rate": 0,
+    "Age Adjusted Death Rate": 0
+  },
+  {
+    "Year": 2013,
+    "Leading Cause": "Total",
+    "Sex": "F",
+    "Race Ethnicity": "White Non-Hispanic",
+    "Deaths": 12895,
+    "Death Rate": 0,
+    "Age Adjusted Death Rate": 0
+  },
+  {
+    "Year": 2014,
+    "Leading Cause": "Total",
+    "Sex": "F",
+    "Race Ethnicity": "Other Race/ Ethnicity",
+    "Deaths": 238,
+    "Death Rate": 0,
+    "Age Adjusted Death Rate": 0
+  },
+  {
+    "Year": 2014,
+    "Leading Cause": "Total",
+    "Sex": "F",
+    "Race Ethnicity": "Not Stated/Unknown",
+    "Deaths": 258,
+    "Death Rate": 0,
+    "Age Adjusted Death Rate": 0
+  },
+  {
+    "Year": 2014,
+    "Leading Cause": "Total",
+    "Sex": "M",
+    "Race Ethnicity": "Other Race/ Ethnicity",
+    "Deaths": 275,
+    "Death Rate": 0,
+    "Age Adjusted Death Rate": 0
+  },
+  {
+    "Year": 2014,
+    "Leading Cause": "Total",
+    "Sex": "M",
+    "Race Ethnicity": "Not Stated/Unknown",
+    "Deaths": 380,
+    "Death Rate": 0,
+    "Age Adjusted Death Rate": 0
+  },
+  {
+    "Year": 2014,
+    "Leading Cause": "Total",
+    "Sex": "F",
+    "Race Ethnicity": "Asian and Pacific Islander",
+    "Deaths": 1706,
+    "Death Rate": 0,
+    "Age Adjusted Death Rate": 0
+  },
+  {
+    "Year": 2014,
+    "Leading Cause": "Total",
+    "Sex": "M",
+    "Race Ethnicity": "Asian and Pacific Islander",
+    "Deaths": 2174,
+    "Death Rate": 0,
+    "Age Adjusted Death Rate": 0
+  },
+  {
+    "Year": 2014,
+    "Leading Cause": "Total",
+    "Sex": "F",
+    "Race Ethnicity": "Hispanic",
+    "Deaths": 4747,
+    "Death Rate": 0,
+    "Age Adjusted Death Rate": 0
+  },
+  {
+    "Year": 2014,
+    "Leading Cause": "Total",
+    "Sex": "M",
+    "Race Ethnicity": "Hispanic",
+    "Deaths": 4940,
+    "Death Rate": 0,
+    "Age Adjusted Death Rate": 0
+  },
+  {
+    "Year": 2014,
+    "Leading Cause": "Total",
+    "Sex": "M",
+    "Race Ethnicity": "Black Non-Hispanic",
+    "Deaths": 6493,
+    "Death Rate": 0,
+    "Age Adjusted Death Rate": 0
+  },
+  {
+    "Year": 2014,
+    "Leading Cause": "Total",
+    "Sex": "F",
+    "Race Ethnicity": "Black Non-Hispanic",
+    "Deaths": 7262,
+    "Death Rate": 0,
+    "Age Adjusted Death Rate": 0
+  },
+  {
+    "Year": 2014,
+    "Leading Cause": "Total",
+    "Sex": "M",
+    "Race Ethnicity": "White Non-Hispanic",
+    "Deaths": 11828,
+    "Death Rate": 0,
+    "Age Adjusted Death Rate": 0
+  },
+  {
+    "Year": 2014,
+    "Leading Cause": "Total",
+    "Sex": "F",
+    "Race Ethnicity": "White Non-Hispanic",
+    "Deaths": 12705,
+    "Death Rate": 0,
+    "Age Adjusted Death Rate": 0
+  }
+]
